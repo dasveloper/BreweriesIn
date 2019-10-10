@@ -45,10 +45,7 @@ const BreweryListing = ({ brewery }) => {
 
                     )}
                 />} */}
-                      <LazyLoad once offset={100}>
-
-                {metadata && metadata.image &&<img style={{maxWidth: '100%'}} src={`/images/${metadata.image}`}/>}
-                </LazyLoad>
+         
             </div>
         </header>
     </div>

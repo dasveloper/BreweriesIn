@@ -4,7 +4,7 @@ import { graphql } from "gatsby";
 import Layout from "../layout";
 import CityList from "../components/CityList/CityList";
 import { Link } from "gatsby";
-import _ from "lodash";
+import kebabCase from "kebab-case";
 
 import BreweryList from "../components/BreweryList/BreweryList";
 import config from "../../data/SiteConfig";
@@ -15,16 +15,13 @@ export default class CityTemplate extends React.Component {
     // const { tag } = this.props.pageContext;
     // const postEdges = this.props.data.allMarkdownRemark.edges;
     const stateSet = new Set();
-    const zipSet = new Set();
 
     breweries.forEach((brewery) => {
       const { postal_code, state } = brewery.node.context;
       if (state) {
         stateSet.add(state);
       }
-      if (postal_code) {
-        zipSet.add(postal_code);
-      }
+    
     });
 
     return (
@@ -33,12 +30,10 @@ export default class CityTemplate extends React.Component {
           {/* <Helmet title={`Posts tagged as "${tag}" | ${config.siteTitle}`} /> */}
          
           {Array.from(stateSet).map((state) => {
-          return <Link to={`/${_.kebabCase(state)}/`}>{state}</Link>;
+          return <Link to={`/${kebabCase(state)}/`}>{state}</Link>;
         })} 
           <BreweryList breweries={breweries} />
-          {Array.from(zipSet).map((zip) => {
-          return <Link to={`/${_.kebabCase(zip)}/`}>{zip}</Link>;
-        }) }
+     
 
         </div>
       </Layout>

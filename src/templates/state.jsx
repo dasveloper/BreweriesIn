@@ -4,7 +4,7 @@ import { graphql } from "gatsby";
 import Layout from "../layout";
 import CityList from "../components/CityList/CityList";
 import { Link } from "gatsby";
-import _ from "lodash";
+import kebabCase from "kebab-case";
 
 import BreweryList from "../components/BreweryList/BreweryList";
 import config from "../../data/SiteConfig";
@@ -19,9 +19,7 @@ export default class StateTemplate extends React.Component {
 
     breweries.forEach((brewery) => {
       const { postal_code, city } = brewery.node.context;
-      if (postal_code) {
-        zipSet.add(postal_code);
-      }
+      
       if (city) {
         citySet.add(city);
       }
@@ -32,11 +30,9 @@ export default class StateTemplate extends React.Component {
           {/* <Helmet title={`Posts tagged as "${tag}" | ${config.siteTitle}`} /> */}
           <BreweryList breweries={breweries} />
           {Array.from(citySet).map((city) => {
-            return <Link to={`/${_.kebabCase(city)}/`}>{city}</Link>;
+            return <Link to={`/${kebabCase(city)}/`}>{city}</Link>;
           })}
-          {Array.from(zipSet).map((zip) => {
-            return <Link to={`/${_.kebabCase(zip)}/`}>{zip}</Link>;
-          })}
+       
         </div>
       </Layout>
     );

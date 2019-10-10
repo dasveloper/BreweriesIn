@@ -7,7 +7,7 @@ import { Link } from "gatsby";
 
 import BreweryList from "../components/BreweryList/BreweryList";
 import config from "../../data/SiteConfig";
-import _ from "lodash";
+import kebabCase from "kebab-case";
 
 export default class ZipTemplate extends React.Component {
   render() {
@@ -33,11 +33,11 @@ export default class ZipTemplate extends React.Component {
           {/* <Helmet title={`Posts tagged as "${tag}" | ${config.siteTitle}`} /> */}
          
           {Array.from(stateSet).map((state) => {
-          return <Link to={`/${_.kebabCase(state)}/`}>{state}</Link>;
+          return <Link to={`/${kebabCase(state)}/`}>{state}</Link>;
         })} 
           <BreweryList breweries={breweries} />
           {Array.from(citySet).map((city) => {
-          return <Link to={`/${_.kebabCase(city)}/`}>{city}</Link>;
+          return <Link to={`/${kebabCase(city)}/`}>{city}</Link>;
         }) }
 
         </div>
