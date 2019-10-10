@@ -48,7 +48,7 @@ exports.createPages = async ({ graphql, actions }) => {
     return a.name.localeCompare(b.name);
   });
 
-  breweries.slice(0,2000).forEach((brewery) => {
+  breweries.forEach((brewery) => {
     if (brewery.country !== "United States" || brewery.brewery_type === "planning"){
       return;
     }
