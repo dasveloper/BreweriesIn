@@ -17,7 +17,7 @@ import LazyLoad from 'react-lazyload';
 // }
 const BreweryListing = ({ brewery }) => {
     const { slug, name, brewery_type, metadata } = brewery;
-    console.log(metadata);
+  
     return <div>
         <header>
             <p>{brewery.name}</p>

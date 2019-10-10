@@ -43,7 +43,6 @@ exports.createPages = async ({ graphql, actions }) => {
   const breweries = await readJsonAsync(path.resolve(`src/data.json`));
   const stateSet = new Set();
   const citySet = new Set();
-  const zipSet = new Set();
 
   breweries.sort((a, b) => {
     return a.name.localeCompare(b.name);
@@ -56,9 +55,7 @@ exports.createPages = async ({ graphql, actions }) => {
     if (brewery.state){
       stateSet.add(brewery.state);
     }
-    if (brewery.postal_code){
-      zipSet.add(brewery.postal_code);
-    }
+
     if (brewery.city){
       citySet.add(brewery.city);
     }
@@ -69,6 +66,7 @@ exports.createPages = async ({ graphql, actions }) => {
         context: brewery,
     })
   });
+
   stateSet.forEach(state => {
     createPage({
       path: `/${_.kebabCase(state)}/`,
@@ -87,13 +85,5 @@ exports.createPages = async ({ graphql, actions }) => {
       }
     });
   });
-  zipSet.forEach(zip => {
-    createPage({
-      path: `/${_.kebabCase(zip)}/`,
-      component: zipPage,
-      context: {
-        zip
-      }
-    });
-  });
+
 };
