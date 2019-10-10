@@ -1,5 +1,5 @@
 import React from "react";
-import { BreweryListing } from "../BreweryListing/BreweryListing";
+import BreweryListing  from "../BreweryListing/BreweryListing";
 class BreweryList extends React.Component {
   render() {
     const { breweries } = this.props;

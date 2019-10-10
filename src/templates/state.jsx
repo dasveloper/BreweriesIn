@@ -55,6 +55,10 @@ export const pageQuery = graphql`
             name
             slug
             state
+            metadata{
+              image
+            }
+              
           name
           slug
           city
@@ -66,6 +70,7 @@ export const pageQuery = graphql`
           phone
           country
           brewery_type
+          
           }
         }
       }

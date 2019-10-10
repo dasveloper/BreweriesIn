@@ -1,0 +1,1048 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US" id="arve" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en-US" id="arve" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en-US" id="arve" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US" id="arve" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Narragansett Beer | Hi Neighbor!</title>
+  
+	<link rel="alternate" type="application/rss+xml" title="Narragansett Beer Feed" href="http://www.narragansettbeer.com/feed/">
+<meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale=1.0, user-scalable=no" /><link rel="shortcut icon" href="">
+<!-- This site is optimized with the Yoast SEO Premium plugin v7.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Born in Rhode Island in 1890, Narragansett Beer is New England&#039;s brewer of classic Lagers and Ales. Hi Neighbor! Have A &#039;Gansett!"/>
+<link rel="canonical" href="http://www.narragansettbeer.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="The Famous Narragansett Beer - Made On Honor Since 1890" />
+<meta property="og:description" content="Born in Rhode Island in 1890, Narragansett Beer is New England&#039;s brewer of classic Lagers and Ales. Hi Neighbor! Have A &#039;Gansett!" />
+<meta property="og:url" content="http://www.narragansettbeer.com/" />
+<meta property="og:site_name" content="Narragansett Beer" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Born in Rhode Island in 1890, Narragansett Beer is New England&#039;s brewer of classic Lagers and Ales. Hi Neighbor! Have A &#039;Gansett!" />
+<meta name="twitter:title" content="The Famous Narragansett Beer - Made On Honor Since 1890" />
+<meta name="twitter:site" content="@gansettbeer" />
+<meta name="twitter:creator" content="@gansettbeer" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.narragansettbeer.com\/","name":"Narragansett Beer","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.narragansettbeer.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"Organization","url":"http:\/\/www.narragansettbeer.com\/","sameAs":["http:\/\/www.facebook.com\/narragansettbeer","https:\/\/www.instagram.com\/gansettbeer\/","https:\/\/www.youtube.com\/user\/NarragansettBeer","https:\/\/twitter.com\/gansettbeer"],"@id":"http:\/\/www.narragansettbeer.com\/#organization","name":"Narragansett Beer","logo":"http:\/\/www.narragansettbeer.com\/wp-content\/uploads\/2018\/02\/02_GANS_Shield_Main_B.jpg"}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//platform-api.sharethis.com' />
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Narragansett Beer &raquo; Feed" href="http://www.narragansettbeer.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="Narragansett Beer &raquo; Comments Feed" href="http://www.narragansettbeer.com/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.narragansettbeer.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.11"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='ctct_form_styles-css'  href='http://www.narragansettbeer.com/wp-content/plugins/constant-contact-forms/assets/css/style.css?ver=1.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.narragansettbeer.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='http://www.narragansettbeer.com/wp-content/plugins/instagram-feed-pro/css/sb-instagram.css?ver=2.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-lightbox-nivo_lightbox-css-css'  href='http://www.narragansettbeer.com/wp-content/plugins/responsive-lightbox-lite/assets/nivo-lightbox/nivo-lightbox.css?ver=4.9.11' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-lightbox-nivo_lightbox-css-d-css'  href='http://www.narragansettbeer.com/wp-content/plugins/responsive-lightbox-lite/assets/nivo-lightbox/themes/default/default.css?ver=4.9.11' type='text/css' media='all' />
+<link rel='stylesheet' id='mp-sliding-style-css'  href='http://www.narragansettbeer.com/wp-content/plugins/slide-puzzle/css/slide-puzzle.css?ver=4.9.11' type='text/css' media='all' />
+<link rel='stylesheet' id='av-styles-css'  href='http://www.narragansettbeer.com/wp-content/plugins/age-verify/includes/assets/styles.css?ver=4.9.11' type='text/css' media='all' />
+<link rel='stylesheet' id='evcal_cal_default-css'  href='//www.narragansettbeer.com/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=2.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='evo_font_icons-css'  href='//www.narragansettbeer.com/wp-content/plugins/eventON/assets/fonts/font-awesome.css?ver=2.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='eventon_dynamic_styles-css'  href='//www.narragansettbeer.com/wp-content/plugins/eventON/assets/css/eventon_dynamic_styles.css?ver=4.9.11' type='text/css' media='all' />
+<link rel='stylesheet' id='fount_custom_style-css'  href='http://www.narragansettbeer.com/wp-content/themes/gansett-beer/css/main.css?ver=5.0.985' type='text/css' media='all' />
+<style id='fount_custom_style-inline-css' type='text/css'>
+#fount_logo_holder {margin-top:30px !important;margin-bottom:30px !important;}.fount_forced_menu #prk_ajax_container,.featured_owl .owl-carousel .sld_top {
+                    padding-top:115px;
+                }.menu_at_top .fount_forced_menu #prk_ajax_container {
+                    padding-top: 55px;
+                }.sf-menu ul,.fount_forced_top_bar #top_bar_wrapper {
+                    top:55px;
+                }#prk_responsive_menu_inner {
+                    height:55px;
+                }#fount_left_floater,#top_form_close,#searchform_top input,#fount_top_floater,#prk_menu_loupe, #menu_section .sf-menu>li {
+                    height:55px;
+                    line-height:55px;
+                }#prk_top_divider_wrapper,#top_form_hider {
+                    height:55px;
+                }.fount_collapsed_menu #prk_responsive_menu_inner #top_form_close,.fount_collapsed_menu #prk_responsive_menu_inner #top_form_hider,.fount_collapsed_menu #fount_left_floater,.menu_at_top #fount_logo_holder,.menu_at_top #prk_responsive_menu #prk_logos,.menu_at_top #fount_left_floater,.menu_at_top #top_form_hider,.menu_at_top #top_form_close,.menu_at_top #searchform_top input,.menu_at_top #fount_top_floater,.menu_at_top #prk_menu_loupe {
+                    height:55px !important;
+                    line-height:55px !important;
+                }#bottom_bar_wrapper {
+                    height:55px;
+                    bottom:-55px;
+                    line-height:55px;
+                }#prk_lower_crumbs {
+                    height:55px;
+                }.fount_collapsed_menu .sf-menu ul {
+                    top:55px;
+                }#prk_responsive_menu.fount_hidden_menu {
+                    margin-top:-61px;}body,.search-query,.regular_font,input,textarea {
+                    font-family:Open Sans;
+                }.woocommerce .summary h1,.woocommerce .related>h3,.woocommerce .related>h2,#calendar_wrap caption,.prk_composer_title,.wpb_heading,.header_font,.shortcode-title {
+                    font-family:'Raleway', sans-serif;}.custom_font,.custom_font .header_font,.custom_font.header_font,.custom_font-1,.custom_font-1 .header_font,.custom_font-1.header_font {
+                    font-family:'signpainter_housescriptRg';;}.colored_theme_button,.theme_button,.theme_button_inverted,.colored_theme_button input,.theme_button input,.theme_button_inverted input {
+                font-family:'Raleway', sans-serif;}.colored_theme_button a,.theme_button a,.theme_button_inverted a,.colored_theme_button a.with_icon, .theme_button a.with_icon, .theme_button_inverted a.with_icon {
+                padding-bottom:6px;
+            }.sf-menu a {
+                padding-top:1px;}#fount_super_sections .fount_super_width #ajaxed_content, #prk_mega_wrap.boxed_fount,.boxed_fount #prk_footer_wrapper,.boxed_fount #prk_responsive_menu,.boxed_fount #bottom_bar_wrapper,.boxed_fount #project_info,.boxed_fount #contact_info,.prk_inner_block,.page-prk-blog-masonry #entries_navigation_blog .prk_inner_block,.vertical_forced_row>div {
+            max-width: 1140px;}#single_blog_content.blog_limited_width {max-width: 800px;}body,#footer_mirror,#prk_ajax_container,#contact_info #contact_form {
+            background-color:#fff5de; 
+        }
+        #prk_responsive_menu_inner,.fount_logo_above #prk_logos {
+                background-color:#000000;
+                background-color:rgba(0, 0, 0, 0.25);
+            }.fount_logo_above.fount_forced_menu #prk_logos,.menu_at_top.fount_forced_menu #prk_logos,.menu_at_top #prk_responsive_menu_inner,.fount_forced_menu #prk_responsive_menu_inner,.fount_collapsed_menu.fount_logo_above #prk_logos,.fount_collapsed_menu #prk_responsive_menu_inner {
+                background-color:#000000;
+                background-color:rgba(0, 0, 0, 0.95);}#prk_hidden_bar {background-image: url(http://www.narragansettbeer.com/wp-content/uploads/2015/03/sidebar-beer-new1.jpg);}#footer_in .widget-title,#footer_in .widget_inner {-webkit-backface-visibility: hidden;}.colored_theme_button input,.colored_theme_button a,.theme_button input,.theme_button a,.theme_button_inverted input, .theme_button_inverted a {text-transform:uppercase;}.member_colored_block_in,.grid_colored_block,.related_fader_grid {
+            background-color:#c3112e;
+            background-color: rgba(195, 17, 46, 0.9);
+        }.lone_linker a {
+            background-color:#fff5de;
+            color:#c3112e;
+        }.lone_linker a:hover {
+            background-color:#c3112e;}a,a:hover, #prk_hidden_bar a:hover,.contact_error,#main .member_ul_slider.owl-theme .owl-controls div:hover,#main .recentposts_ul_slider.owl-theme .owl-controls div:hover,.post_meta_single #previous_button:hover .after_icon,.post_meta_single #next_button:hover .bf_icon,#nav-main.resp_mode li > a:hover,.a_colored a:hover,.recentposts_ul_shortcode .blog_meta a:hover,.classic_meta .post-categories li a:hover,.headings_top,.tiny_bullet,.not_zero_color,.prk_service:hover .colored_link_icon,#prk_footer .copy a:hover,#prk_footer #footer_bk a:hover,#fount_to_top,.fount_button_arrow,#top_bar_wrapper #fount_close.small_headings_color:hover,#top_bar_wrapper #fount_left.small_headings_color:hover .inner_mover,#top_bar_wrapper #fount_right.small_headings_color:hover .inner_mover,#folio_nav_wrapper #fount_close_folio.small_headings_color:hover,#folio_nav_wrapper #fount_left_folio.small_headings_color:hover .inner_mover,#folio_nav_wrapper #fount_right_folio.small_headings_color:hover .inner_mover,.prk_accordion.ui-accordion .ui-accordion-header.ui-state-active,.prk_accordion.ui-accordion .ui-accordion-header.ui-state-active a,.wpb_content_element .wpb_accordion_wrapper .wpb_accordion_header.ui-state-active,.wpb_content_element .wpb_accordion_wrapper .wpb_accordion_header.ui-state-active a,.ui-tabs .ui-tabs-nav li.ui-tabs-active a {
+                color: #c3112e;
+            }.sod_select .sod_option.active,.sod_select,.fount_folio_filter .active a,.fount_folio_filter a:hover,#main .member_ul_slider.owl-theme .owl-controls div,#main .recentposts_ul_slider.owl-theme .owl-controls div,.titled_portfolio .grid_single_title .body_bk_color,.wpb_heading,.zero_color,.zero_color a,a.zero_color {
+                color: #c3112e;
+            }.sod_select {
+                border-color: #c3112e;
+            }#after_widgets,#prk_footer #footer_bk .small_headings_color,#prk_footer #footer_bk .default_color,#prk_footer #footer_bk a.small_headings_color,#prk_footer #footer_bk .small_headings_color a,#prk_footer #footer_bk a.default_color,#prk_footer #footer_bk .default_color a,#prk_footer {
+                color:#f9f9f9;
+            }#prk_footer .zero_color,#prk_footer .fount_active_icon,#prk_footer .fount_address_icon,#prk_footer .prk_footer_menu a,#prk_footer .copy a,#prk_footer #footer_bk a,#footer_in .theme_button input,#footer_in .widget-title,#prk_footer #footer_bk .prk_twt_body .twt_in a.default_color {
+                color:#ffffff;
+            }#prk_footer .prk_footer_menu a .lower_divider {
+                color:#ffffff !important;
+            }.bordered_buttons #prk_footer .theme_button a,.bordered_buttons #prk_footer .theme_button input {
+                border-color:#ffffff;
+            }.fount_theme .mfp-bg,#fount_ajax_back {
+                background-color:#fff5de;
+            }.my-mfp-zoom-in.mfp-ready.mfp-bg {
+                filter: alpha(opacity=100);
+                opacity:1;
+            }#fount_ajax_holder,#fount_ajax_holder .default_color,#top_bar_wrapper .default_color,#top_bar_wrapper .zero_color,.fount_theme .mfp-counter,.fount_theme .mfp-title {
+                color:#545b62;
+            }#top_bar_wrapper .small_headings_color,#fount_ajax_holder .small_headings_color {
+                color:#acacac;
+            }#fount_ajax_holder .zero_color,.fount_theme .mfp-arrow-left,.fount_theme .mfp-arrow-right {
+                color:#c3112e;
+            }#top_bar_wrapper .fount_close_inner:before,#top_bar_wrapper .fount_close_inner:after {
+                background-color:#acacac;
+            }.mfp-close_inner:before,.mfp-close_inner:after {
+                background-color:#c3112e;
+            }#fount_ajax_holder .simple_line {
+                border-color:#dedede;
+            }.summary .cart:after {
+                background-color:#ecd7a7;
+            }.colored_theme_button input,.colored_theme_button a,.theme_button input,.theme_button a,.theme_button_inverted input,.theme_button_inverted a,.prk_radius {
+                -webkit-border-radius: 3px;
+                border-radius: 3px;
+            }.owl-prev {
+                -webkit-border-bottom-left-radius: 3px;
+                border-bottom-left-radius: 3px;
+                -webkit-border-top-left-radius: 3px;
+                border-top-left-radius: 3px;
+            }.owl-next {
+                -webkit-border-bottom-right-radius: 3px;
+                border-bottom-right-radius: 3px;
+                -webkit-border-top-right-radius: 3px;
+                border-top-right-radius: 3px;
+            }#footer_in .simple_line {
+                border-bottom:1px solid #f9f9f9;
+                border-bottom:1px solid rgba(249, 249, 249,0.2);
+            }#footer_in .pirenko_highlighted {
+                border:1px solid #f9f9f9;
+                border:1px solid rgba(249, 249, 249,0.2);
+            }#prk_hidden_bar .pirenko_highlighted:focus,#footer_in .pirenko_highlighted:focus {
+                border-color: #c3112e;
+                border-color: rgba(195, 17, 46,0.65);
+            }.woocommerce .woocommerce-message {
+                border-top-color:#c3112e;
+            }#after_widgets.not_plain,#prk_footer_menu,.copy {
+                border-top:1px solid #f9f9f9;
+                border-top:1px solid rgba(249, 249, 249,0.2);
+            }.copy {
+                box-shadow: 0px -1px 0px #818181;
+                -webkit-box-shadow: 0px -1px 0px #818181;
+                -moz-box-shadow: 0px -1px 0px #818181;
+            }#fount_wrapper #dotted_navigation a span,#fount_wrapper #dotted_navigation a.active span {
+                color:#000000;
+            }#fount_wrapper #dotted_navigation a:before {
+                background-color:#000000;
+            }#prk_footer {
+                background-color:#000000;
+            }body,.prk_tags_ul a,.blog_meta>p>a,
+            .flexslider .headings_body,.shortcode_slider .headings_body,.padded_text a,.post_meta_single .after_icon,.post_meta_single .bf_icon,.post_meta_single a,.blog_meta a,.default_color,.default_color a,.default_color a:hover,a.default_color,a.default_color:hover,.titled_block .grid_single_title span a,.contact_address_right_single a,#fount_search,.masonr_read_more a,.blog_meta a,#nav-main.resp_mode li > a,.ui-tabs .ui-tabs-nav li a,.pirenko_highlighted,.prk_minimal_button>span,.prk_minimal_button>a,.prk_minimal_button>input,.ui-accordion .ui-accordion-header,.ui-accordion .ui-accordion-header a,.fount_folio_filter a,select {
+                color:#000000;
+            }.sod_select.open:before,.sod_select .sod_option.selected:before,.sod_select.open,a.small_headings_color,.small_headings_color a,.small_headings_color {
+                color:#444444;
+            }.sod_select .sod_option.active {
+                background-color:rgba(68, 68, 68, 0.15);
+            }.prk_price_header {
+                background-color:rgba(68, 68, 68, 0.5); 
+            }.fount_close_inner:before,.fount_close_inner:after {
+                background-color:#444444;
+            }::-webkit-input-placeholder {
+               color: #000000;
+            }:-moz-placeholder {
+               color: #000000;  
+            }::-moz-placeholder { 
+               color: #000000;  
+            }:-ms-input-placeholder {  
+               color: #000000;  
+            }:focus::-webkit-input-placeholder {
+               color: rgba(0, 0, 0, 0.2); 
+            }:focus:-moz-placeholder {
+               color: rgba(0, 0, 0, 0.2); 
+            }:focus::-moz-placeholder { 
+               color: rgba(0, 0, 0, 0.2); 
+            }:focus:-ms-input-placeholder {  
+               color: rgba(0, 0, 0, 0.2);  
+            }
+            .vc_progress_bar .vc_single_bar .vc_label,.entry-title a,.related_post a,.prk_folio_control,.prk_price_featured,.menu_bk_color {
+                color:#ffffff;
+            }.slider_scroll_button i,.owl-controls .owl-buttons div,.site_background_colored a,a.site_background_colored,.site_background_colored,.prk_blockquote.colored_background .in_quote,.prk_sharrre_button a,.colored_theme_button input,.colored_theme_button a,.colored_theme_button a:hover,.theme_button input,.theme_button a,.theme_button a:hover,.theme_button_inverted input,.theme_button_inverted a,.theme_button_inverted a:hover,#pages_static_nav a,.sform_wrapper i,.fount_paging_navigation a:hover,.lone_linker a:hover,.prk_minimal_button>span.current {
+                color:#fff5de;
+            }.body_bk_color {
+                color:#ffffff;
+            }.sod_select:after,.sod_select,.sod_select .sod_list_wrapper,.titled_portfolio .grid_single_title,.squared_button:hover .fount_close_inner:before, .squared_button:hover .fount_close_inner:after {
+                background-color:#fff5de;
+            }.titled_portfolio .grid_single_title .body_bk_text_shadow,.bd_headings_text_shadow {
+                text-shadow:0px 0px 1px rgba(195, 17, 46,0.2);
+            }.body_text_shadow {
+                text-shadow:0px 0px 1px rgba(0, 0, 0,0.2);
+            }.owl-controls .owl-buttons div,.flexslider .theme_button_inverted a,.navigation-previous,.navigation-next {
+                background-color:#111111;
+            }#nprogress .bar {
+                background-color:#c3112e;
+            }#folio_spinner.spinner-icon,.multi_spinner.spinner-icon,#single_spinner.spinner-icon {
+                border: 3px solid rgba(195, 17, 46,0.3);
+                border-right-color:#c3112e;
+                border-left-color:#c3112e;
+            }#nprogress .spinner-icon {
+                border: 5px solid rgba(195, 17, 46,0.3);
+                border-right-color:#c3112e;
+                border-left-color:#c3112e;
+            }.prk_blockquote.colored_background .in_quote:after {
+                border-color: #fff5de rgba(255, 245, 222,0.35) #fff5de rgba(255, 245, 222,0.35);
+            }.headings_top,.active_text_shadow {
+                text-shadow:0px 0px 1px rgba(195, 17, 46,0.3);
+            }#footer_in ::-webkit-input-placeholder {
+               color: #f9f9f9;
+            }#footer_in :-moz-placeholder {
+               color: #f9f9f9;  
+            }#footer_in ::-moz-placeholder {
+               color: #f9f9f9;  
+            }#footer_in :-ms-input-placeholder {  
+               color: #f9f9f9;
+            }.menu_at_top #prk_responsive_menu .sf-menu>li.mega_menu>ul>li>a {
+                background-color:#000000 !important;
+            }#searchform_top input,.menu_at_top #prk_menu_els,#contact_info,#project_info,#outerSliderWrapper,#pages_static_nav a,#bottom_bar_wrapper,#top_form_hider {
+                background-color:#000000;
+            }#fount_wrapper .member_colored_block .fount_member_links .fount_socialink {
+                border-color:#AA9047;
+                color:#AA9047;
+            }#fount_wrapper .member_colored_block .fount_member_links .fount_socialink.fount_fa-envelope-o {
+                border-color:#AA9047 !important;
+                color:#AA9047 !important;
+            }#mini_social_nets a,#menu_section,.sf-menu>li>a,.prk_gallery_title {
+                color: #ffffff;
+            }#prk_top_divider,#menu_section #prk_menu_left_trigger .prk_menu_block,#menu_section #prk_menu_right_trigger .prk_menu_block {
+                background-color: #ffffff;
+                background-color: rgba(255, 255, 255,0.88);
+            }#mini_social_nets a:hover,#mini_social_nets a:hover,#menu_section .sf-menu>li>a:hover,#menu_section .sf-menu>li.active>a {
+                color:#c3112e;
+            }#menu_section #prk_menu_left_trigger.hover_trigger .prk_menu_block,#menu_section #prk_menu_right_trigger.hover_trigger .prk_menu_block {
+                background-color: #c3112e;
+                background-color: rgba(195, 17, 46,0.88);
+            }#menu_section .sf-menu a:hover::after {
+                background-color:#c3112e;
+            }.fount_forced_menu #mini_social_nets a,.fount_collapsed_menu #mini_social_nets a,#top_form_close,.menu_at_top #menu_section,.menu_at_top .sf-menu li a,#searchform_top input,#searchform_top input:focus,.fount_forced_menu #menu_section,.fount_forced_menu .sf-menu>li>a,.fount_forced_menu #searchform_top input,.fount_collapsed_menu #top_form_close,.fount_collapsed_menu #menu_section,.fount_collapsed_menu .sf-menu>li>a,.fount_collapsed_menu #searchform_top input {
+                color: #ffffff;
+            }.menu_at_top #menu_section #prk_menu_left_trigger .prk_menu_block,.menu_at_top #menu_section #prk_menu_right_trigger .prk_menu_block,.fount_forced_menu #menu_section #prk_menu_left_trigger .prk_menu_block,.fount_forced_menu #menu_section #prk_menu_right_trigger .prk_menu_block,.fount_collapsed_menu #menu_section #prk_menu_left_trigger .prk_menu_block,.fount_collapsed_menu #menu_section #prk_menu_right_trigger .prk_menu_block {
+                background-color: #ffffff;
+                background-color: rgba(255, 255, 255,0.88);
+            }.fount_forced_menu #mini_social_nets a:hover,.fount_collapsed_menu #mini_social_nets a:hover,.fount_forced_menu #menu_section .sf-menu>li.active>a.sf-with-ul,.menu_at_top #menu_section .sub-menu li a:hover,.menu_at_top .fount_forced_menu #menu_section .sf-menu>li.fount_hover_sub>a.active.sf-with-ul:hover,.menu_at_top .fount_forced_menu #menu_section .sf-menu>li.fount_hover_sub>a.sf-with-ul:hover,.menu_at_top #menu_section .sf-menu>li.fount_hover_sub>a.active.sf-with-ul:hover,.menu_at_top #menu_section .sf-menu>li.fount_hover_sub>a.sf-with-ul:hover,.menu_at_top #menu_section .sf-menu>li.fount_hover_sub>a.active.sf-with-ul,.menu_at_top #menu_section .sf-menu>li.fount_hover_sub>a.sf-with-ul,.menu_at_top #menu_section .sf-menu>li>a:hover,.menu_at_top #menu_section .sf-menu>li.active>a,.fount_forced_menu #menu_section .sf-menu>li>a:hover,.fount_forced_menu #menu_section .sf-menu>li.active>a,.fount_collapsed_menu #menu_section .sf-menu>li>a:hover,.fount_collapsed_menu #menu_section .sf-menu>li.active>a {
+                color:#c3112e;
+            }.menu_at_top #menu_section #prk_menu_left_trigger.hover_trigger .prk_menu_block,.menu_at_top #menu_section #prk_menu_right_trigger.hover_trigger .prk_menu_block,.fount_forced_menu #menu_section #prk_menu_left_trigger.hover_trigger .prk_menu_block,.fount_forced_menu #menu_section #prk_menu_right_trigger.hover_trigger .prk_menu_block,.fount_collapsed_menu #menu_section #prk_menu_left_trigger.hover_trigger .prk_menu_block,.fount_collapsed_menu #menu_section #prk_menu_right_trigger.hover_trigger .prk_menu_block {
+                background-color: #c3112e;
+                background-color: rgba(195, 17, 46,0.88);
+            }.menu_at_top #menu_section .sf-menu a:hover::after,.fount_forced_menu #menu_section .sf-menu a:hover::after,.fount_collapsed_menu #menu_section .sf-menu a:hover::after {
+                background-color:#c3112e;
+            }.tooltipster-light {
+                color:#ffffff;
+                background-color:#000000;
+                background-color: rgba(0, 0, 0,1);
+            }#copy {
+                color: #f9f9f9;
+            }.theme_button_inverted a {
+                background-color: #222222;
+            }.bordered_buttons .theme_button_inverted input,.bordered_buttons .theme_button_inverted a,.bordered_buttons .theme_button_inverted a:hover {
+                color: #222222;
+                border-color: #222222;
+            }.bordered_buttons .theme_button input,.bordered_buttons .theme_button a,.bordered_buttons .theme_button a:hover {
+                color: #c3112e;
+                border-color: #c3112e;
+            }.fount_folio_filter .p_filter a:after,.classic_meta .post-categories li a,.prk_sharrre_button {
+                background-color: #c3112e;
+            }.small_underline .prk_vc_title,.large_underline .prk_vc_title {
+                border-bottom-color: rgba(195, 17, 46,0.9);
+            }.fount_socialink.fount_fa-envelope-o,.fount_socialink.colorer-envelope {
+                border-color:#c3112e !important;
+                color:#c3112e !important;
+            }.fount_socialink.fount_fa-envelope-o .bg_shifter,.fount_socialink.colorer-envelope .bg_shifter {
+                background-color:#c3112e !important;
+            }.blog_fader_grid {
+                background-color:#313539;
+                background-color: rgba(49, 53, 57, 0.6);
+            }.owl-theme .owl-controls .owl-page.active span,.colored_theme_button a,.colored_theme_button input,.theme_button input,.theme_button a,.prk_blockquote.colored_background,.tiny_line,.sform_wrapper i,.fount_paging_navigation a:hover,.prk_minimal_button>span.current {
+                background-color:#c3112e;
+            }.theme_button_inverted.active a {
+                background-color:#c3112e !important;
+            }.wpb_tour .ui-state-active,.wpb_tour .ui-widget-content .ui-state-active,.wpb_tour .ui-widget-header .ui-state-active,.wpb_tour .ui-tabs .ui-tabs-nav li.ui-state-active,.wpb_tabs .ui-tabs-nav .ui-state-hover,.wpb_tabs .ui-tabs-nav .ui-state-active,.wpb_tabs .ui-tabs-nav .ui-widget-content .ui-state-active,.wpb_tabs .ui-tabs-nav .ui-widget-header .ui-state-active,.wpb_tabs .ui-tabs-nav .ui-tabs .ui-tabs-nav li.ui-state-active,.prk_accordion .ui-accordion-content,.wpb_accordion_content,.wpb_tour .wpb_tour_tabs_wrapper .wpb_tab,.wpb_content_element.wpb_tabs .wpb_tour_tabs_wrapper .wpb_tab,.prk_speech,.small_squared,.prk_price_table,.vc_progress_bar .vc_single_bar,.cart-collaterals table,.shop_table,.woocommerce #payment,.liner,.es-nav span,.btn-primary,.prk_minimal_button>span,.prk_minimal_button>a,.prk_minimal_button>input,.pirenko_highlighted,#nav-main.resp_mode,.prk_inner_tip,.prk_blockquote,.colored_bg {
+                background-color:#ffffff;
+            }.wpb_tabs .ui-tabs-nav .ui-state-active,.wpb_tabs .ui-tabs-nav .ui-widget-content .ui-state-active,.wpb_tabs .ui-tabs-nav .ui-widget-header .ui-state-active,.wpb_tabs .ui-tabs-nav .ui-tabs .ui-tabs-nav li.ui-state-active {
+                border-bottom:1px solid #ffffff;
+            }input:focus, textarea:focus,select:focus {
+                background-color: rgba(195, 17, 46,0.1);
+                border-color: rgba(195, 17, 46,0.65);
+                color: #c3112e;
+            }.prk_cropped_blockquote:before,.prk_cropped_blockquote:after {
+                background-color:#fff5de; 
+            }.comments_special_button a {
+                color:#ffffff !important;
+            }#menu_section .sf-menu .fount_hover_sub .sub-menu li a,.sf-menu>li.fount_hover_sub>a.sf-with-ul,.sf-menu>li.mega_menu>ul>li>a {
+                background-color:#000000; 
+            }#menu_section .sf-menu .sub-menu li,.sf-menu>li>a.sf-with-ul {
+                background-color: rgba(0, 0, 0,0);
+            }.sf-menu .prk_regular_menu li a {
+                border-top:1px solid #232323;
+            }.sf-menu>li.mega_menu>ul>li {
+                border-right:1px dashed #232323;
+            }.sf-menu>li.fount_hover_sub>a.sf-with-ul {
+                color:#c3112e;
+            }.sf-menu>li.fount_hover_sub>a.active.sf-with-ul:hover,.sf-menu>li.fount_hover_sub>a.sf-with-ul:hover,#menu_section .sf-menu>li.fount_hover_sub>a.sf-with-ul:hover,#menu_section .sf-menu>li.fount_hover_sub>a.active.sf-with-ul:hover,.fount_collapsed_menu #menu_section .sf-menu>li.fount_hover_sub>a.active.sf-with-ul,.fount_collapsed_menu #menu_section .sf-menu>li.fount_hover_sub>a.sf-with-ul,.fount_forced_menu #menu_section .sf-menu>li.fount_hover_sub>a.sf-with-ul,.fount_forced_menu #menu_section .sf-menu>li.fount_hover_sub>a.active.sf-with-ul,#menu_section .sf-menu .fount_hover_sub .sub-menu li a:hover {
+                color:#c3112e;
+                background-color:#000000;
+            }.sf-menu .sub-menu a {
+                color:#ffffff; 
+            }#prk_hidden_bar{
+                width:380px;
+            }#body_hider {
+                right:380px;
+            }.prk_shifted #prk_hidden_bar {
+                margin-right: 0px;
+            }.prk_shifted #contact_info,.prk_shifted #prk_ajax_container,.prk_shifted #bottom_bar_wrapper,.prk_shifted #prk_responsive_menu,.prk_shifted #footer_mirror,.prk_shifted #prk_footer {
+                margin-left: -380px;
+            }.prk_shifted #fount_to_top {
+                margin-right: 380px;
+            }#prk_hidden_bar .default_color a,#prk_hidden_bar a.default_color,#prk_hidden_bar .default_color,#prk_hidden_bar {
+                color: #ffffff; 
+            }.bordered_buttons #prk_hidden_bar .theme_button a,.bordered_buttons #prk_hidden_bar .theme_button input,#prk_hidden_bar .fount_active_icon,#prk_hidden_bar .fount_address_icon,#prk_hidden_bar a,#prk_hidden_bar .widget-title,#prk_hidden_bar .not_zero_color,#prk_hidden_bar .not_zero_color a,#prk_hidden_bar a.not_zero_color {
+                color: #c3112e; 
+            }.bordered_buttons #prk_hidden_bar .theme_button a,.bordered_buttons #prk_hidden_bar .theme_button input {
+                border-color:#c3112e;
+            }#prk_hidden_bar .simple_line {
+                border-bottom:1px solid #ffffff;
+                border-bottom:1px solid rgba(255, 255, 255,0.2);
+            }#prk_hidden_bar .pirenko_highlighted {
+                border:1px solid #ffffff;
+                border:1px solid rgba(255, 255, 255,0.2);
+            }#prk_hidden_bar .mCSB_scrollTools .mCSB_draggerRail {
+                background-color: #ffffff;
+                background-color: rgba(255, 255, 255,0.3);
+            }#prk_hidden_bar .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+                background-color: #c3112e; 
+            }#prk_hidden_bar {
+                background-color: #111111;
+                border-left: 1px solid #111111;
+            }#portfolio_info {
+                border-left:1px solid #000000;
+                border-left:1px solid rgba(0, 0, 0,0.25);
+            }.prk_author_avatar img {
+                border:6px solid #fff5de;
+            }#main .recentposts_ul_slider.msnr .blog_lower,#main .masonry_blog .blog_lower,.fount_woo_el_wrapper,#prk_nav_inner,#author_area,#single_meta_footer,.single_blog_meta_class:before, .single_blog_meta_class:after,.prk_vc_title:before, .prk_vc_title:after,.page-prk-blog-full .blog_lower,.wpb_separator, .vc_text_separator,.post_meta_single,.simple_line {
+                border-bottom: 1px solid #ecd7a7;
+            }#author_area img,ol.commentlist img.avatar {
+                box-shadow: 0px 0px 3px #ecd7a7;
+                -webkit-box-shadow: 0px 0px 3px #ecd7a7;
+                -moz-box-shadow: 0px 0px 3px #ecd7a7;
+            }.prk_prices_specs li,.underp {
+                border-bottom: 1px solid #ecd7a7;
+                border-bottom: 1px solid rgba(236, 215, 167,0.65);
+            }.menu_at_top #prk_responsive_menu .sf-menu>li.mega_menu>ul>li>a,.menu_at_top #prk_responsive_menu #menu_section .sf-menu>li,.menu_at_top #prk_responsive_menu .sf-menu .prk_regular_menu li,.menu_at_top #prk_responsive_menu .sf-menu .prk_regular_menu li:first-child {
+                border-top:1px solid #232323;
+            }.menu_at_top #prk_responsive_menu #menu_section .sf-menu>li:last-child {
+                border-bottom: 1px solid #232323;
+            }.prk_prices_specs {
+                border-top: 1px solid #ecd7a7 !important;
+                border-top:1px solid rgba(236, 215, 167,0.65) !important;
+            }.recentposts_ul_shortcode .blog_lower,.masonry_blog .blog_lower,.recentposts_ul_slider .blog_lower,#prk_nav_inner,.prk_price_header,.post_meta_single,#prk_gallery_footer {
+                border-top:1px solid #ecd7a7;
+            }.wpb_row .wpb_column:last-child .wpb_wrapper .prk_price_table .prk_prices_specs,.wpb_row .wpb_column:last-child .wpb_wrapper .prk_price_table .prk_price_header{
+                border-right:1px solid #ecd7a7;
+            }.prk_prices_specs,.prk_price_header{
+                border-left:1px solid #ecd7a7;
+            }.sod_select:hover,.sod_select.open,.sod_select .sod_list_wrapper,.wpb_tabs .ui-tabs .ui-tabs-panel,.ui-accordion .ui-accordion-header,.ui-tabs .ui-tabs-nav li,.wpb_content_element .wpb_accordion_wrapper .wpb_accordion_header,.wpb_content_element .wpb_tour_tabs_wrapper .wpb_tab,.wpb_content_element .wpb_accordion_wrapper .wpb_accordion_content,.prk_minimal_button>span,.prk_minimal_button>a,.prk_minimal_button>input,.tagcloud a,.pirenko_highlighted,.pk_contact_highlighted,.prk_cropped_blockquote:before,.prk_cropped_blockquote:after,.prk_bordered {
+                border:1px solid #e8e8e8;
+            }.ui-accordion .ui-accordion-header,.ui-tabs .ui-tabs-nav li,.wpb_content_element .wpb_accordion_wrapper .wpb_accordion_header {
+                background-color:#e8e8e8;
+                background-color:rgba(232, 232, 232, 0.50);}@media only screen and (max-width: 767px) {.prk_price_table .prk_prices_specs,.prk_price_table .prk_price_header {
+                        border-right:1px solid #ecd7a7;}}@media(max-width:480px) { 
+                    #prk_hidden_bar{
+                        width:280px;
+                    }#body_hider {
+                        right:280px;
+                    }.prk_shifted #contact_info,.prk_shifted #prk_ajax_container,.prk_shifted #bottom_bar_wrapper,.prk_shifted #prk_responsive_menu,.prk_shifted #footer_mirror,.prk_shifted #prk_footer {
+                        margin-left: -280px;
+                    }.prk_shifted #fount_to_top {
+                        margin-right: 280px;
+                    }}#fount_wrapper #content .cart-collaterals table,#fount_wrapper #content .shop_table,#fount_wrapper .woocommerce textarea, #fount_wrapper .woocommerce input,.woocommerce #fount_wrapper div.product .woocommerce-tabs .tabs li,.woocommerce-tabs .panel,.woocommerce .quantity input.qty,.woocommerce #content .quantity input.qty,.woocommerce-page .quantity input.qty,.woocommerce-page #content .quantity input.qty,.shop_table,.woocommerce #payment,.woocommerce .widget_product_search #s {
+                border:1px solid #e8e8e8;
+            }#fount_wrapper #content .cart-collaterals .cart_totals tr th,#fount_wrapper #content .cart-collaterals .cart_totals tr td,#fount_wrapper #content table.shop_table td {
+                border-top:1px solid #e8e8e8;
+            }#fount_wrapper #content .woocommerce .button.alt,#fount_wrapper #content .woocommerce .button,#fount_wrapper .woocommerce .button,.woocommerce .widget_product_search #searchsubmit {
+                background: #222222;
+            }#fount_wrapper #content .woocommerce .button:hover,#fount_wrapper .woocommerce .button:hover,.woocommerce span.onsale,.woocommerce .widget_product_search #searchsubmit:hover {
+                background:#c3112e;
+            }#fount_wrapper #content .woocommerce .button.alt,#fount_wrapper #content .woocommerce .button,#fount_wrapper .woocommerce .button, .fount_woo_add_button,.woocommerce .widget_product_search #searchsubmit {
+                color:#fff5de;
+            }.woocommerce #fount_wrapper #content div.product .woocommerce-tabs ul.tabs li.active {
+                background:#fff5de;
+            }.fount_woo_add_button {
+                background:#111111;
+            }html .woocommerce .star-rating span,html .woocommerce .woocommerce-message:before {
+                color: #c3112e;
+            }#fount_wrapper #sidebar ul.product_list_widget li a,.woocommerce .fount_woo_checkout h3,.woocommerce .customer_details dt,.shipping_calculator h2 a,.woocommerce-checkout ul.order_details,.woocommerce-checkout table.order_details tfoot>tr:last-child,.woocommerce-checkout .addresses h3,.woocommerce #order_review_heading, .woocommerce #customer_details h3,.woocommerce .order-total,.woocommerce-result-count,.pp_woocommerce .pp_description,.woocommerce #fount_wrapper .woocommerce-tabs .tabs li a,#fount_wrapper .woocommerce #content .price,#fount_wrapper .woocommerce .price,#fount_wrapper .woocommerce .product_title,#fount_wrapper .woocommerce .product_meta,#fount_wrapper .woocommerce h2 {
+                color: #c3112e;  
+            }.woocommerce .fount_woo_thankyou header h2,.woocommerce .simple_line,.woocommerce-checkout #fount_wrapper h3,.woocommerce table.shop_table th,.woocommerce #fount_wrapper .woocommerce-tabs ul.tabs:before {
+                border-bottom-color:#e8e8e8;
+            }.woocommerce #fount_wrapper .woocommerce-tabs .tabs li.active {
+                border-bottom-color:#fff5de;
+            }.woocommerce #payment div.payment_box:after, .woocommerce-page #payment div.payment_box:after {
+                border:8px solid #e8e8e8;
+                border:8px solid rgba(232, 232, 232, 0.50);
+                border-right-color: transparent;
+                border-left-color: transparent;
+                border-top-color: transparent;
+            }#fount_wrapper .price del, #fount_wrapper .woocommerce .price del, .woocommerce #fount_wrapper .price del {
+                color:#444444;
+            }#fount_wrapper #sidebar ul.product_list_widget li {
+                border-bottom:1px solid #ecd7a7;
+            }.woocommerce .woocommerce-error,.woocommerce .woocommerce-info,.woocommerce #payment div.payment_box, .woocommerce-page #payment div.payment_box,.woocommerce .woocommerce-message,.woocommerce #fount_wrapper #content div.product .woocommerce-tabs ul.tabs li {
+                background:#e8e8e8;
+                background:rgba(232, 232, 232, 0.50);}.ctct-disclosure {
+display: none;
+}
+
+html body .theme-postman .border-top,
+html body .theme-postman .border-left,
+html body .theme-postman .border-right,
+html body .theme-postman .border-left {
+	visibility: hidden;
+}
+.fount_cpts .portfolio_entry_li {
+-webkit-transform: translate3d(0px, 0px, 0px) !important;
+}
+#av-overlay-wrap {
+    background-color: rgba(255, 255, 255, 0.85) !important;
+}
+.page-id-34592 .titled_portfolio .portfolio_entry_li .entry_content {max-height:46px;overflow:hidden;}
+.page-id-34592 .titled_portfolio .grid_single_title {
+    padding: 20px 20px 10px 2px;
+    min-height:136px;
+}
+.titled_portfolio .grid_single_title {
+    padding: 20px;
+}
+.page-id-228 .wpcf7-form textarea,
+.page-id-228 .wpcf7-form input {
+width:100%;
+}
+#after_single_folio {
+    margin-top: 25px;
+}
+.ow_vote_single_section { margin-top: 139px !important; padding-top: 115px;}
+@media (max-width: 798px) {
+.ow_vote_single_section { margin-top: 0px !important; padding-top: 36px;}
+}
+
+.ow_voting_right, .ow_voting_left {
+    display: none;
+}
+
+.fount_logo_above.fount_forced_menu #centered_block {
+    margin-top: 175px !important;
+}
+</style>
+<link rel='stylesheet' id='pirenko_responsive_style-css'  href='http://www.narragansettbeer.com/wp-content/themes/gansett-beer/css/responsive.css?ver=5.0.985' type='text/css' media='all' />
+<link rel='stylesheet' id='prk_header_font-css'  href='http://fonts.googleapis.com/css?family=Raleway%3A300%2C400%2C500%2C600%2C700&#038;ver=4.9.11' type='text/css' media='all' />
+<link rel='stylesheet' id='prk_body_font-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C600italic%2C700italic%2C400%2C600%2C700&#038;ver=4.9.11' type='text/css' media='all' />
+<link rel='stylesheet' id='prk_custom_font-css'  href='http://www.narragansettbeer.com/wp-content/themes/gansett-beer/inc/fonts/signpainter/stylesheet.css?ver=5.0.985' type='text/css' media='all' />
+<link rel="stylesheet" type="text/css" href="//www.narragansettbeer.com/wp-content/plugins/smart-slider-3/library/media/smartslider.min.css?1533756707" media="all" />
+<style type="text/css">.n2-ss-spinner-simple-white-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -20px;
+    background: #fff;
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+    border-radius: 50%;
+    z-index: 1000;
+}
+
+.n2-ss-spinner-simple-white {
+  outline: 1px solid RGBA(0,0,0,0);
+  width:100%;
+  height: 100%;
+}
+
+.n2-ss-spinner-simple-white:before {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    margin-top: -11px;
+    margin-left: -11px;
+}
+
+.n2-ss-spinner-simple-white:not(:required):before {
+    content: '';
+    border-radius: 50%;
+    border-top: 2px solid #333;
+    border-right: 2px solid transparent;
+    animation: n2SimpleWhite .6s linear infinite;
+    -webkit-animation: n2SimpleWhite .6s linear infinite;
+}
+@keyframes n2SimpleWhite {
+    to {transform: rotate(360deg);}
+}
+
+@-webkit-keyframes n2SimpleWhite {
+    to {-webkit-transform: rotate(360deg);}
+}</style><script type='text/javascript' src='http://www.narragansettbeer.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.narragansettbeer.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.narragansettbeer.com/wp-content/plugins/responsive-lightbox-lite/assets/nivo-lightbox/nivo-lightbox.min.js?ver=4.9.11'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rllArgs = {"script":"nivo_lightbox","selector":"lightbox","custom_events":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.narragansettbeer.com/wp-content/plugins/responsive-lightbox-lite/assets/inc/script.js?ver=4.9.11'></script>
+<script type='text/javascript' src='http://www.narragansettbeer.com/wp-content/plugins/slide-puzzle/js/slide-puzzle.js?ver=4.9.11'></script>
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#product=ga&#038;property=5a73870210fe560012c5e7f9'></script>
+<link rel='https://api.w.org/' href='http://www.narragansettbeer.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.narragansettbeer.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.narragansettbeer.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.11" />
+<link rel='shortlink' href='http://www.narragansettbeer.com/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.narragansettbeer.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.narragansettbeer.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.narragansettbeer.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.narragansettbeer.com%2F&#038;format=xml" />
+		<!-- Open Graph tags generated by Open Graph Metabox for WordPress -->
+		<meta property="og:url" content="http://www.narragansettbeer.com" />
+
+					<meta property="og:title" content="The Famous Narragansett Beer - Made On Honor Since 1890" />
+		
+					<meta property="og:description" content="" />
+		
+		
+		
+		
+		
+		<!-- /Open Graph tags generated by Open Graph Metabox for WordPress -->
+		<style type="text/css"></style>
+		<style type="text/css">
+
+			#av-overlay-wrap {
+				background: #e6e6e6;
+			}
+
+			#av-overlay {
+				background: #fff;
+			}
+
+		</style>
+
+		
+
+<!-- EventON Version -->
+<meta name="generator" content="EventON 2.5.3" />
+
+<meta name="p:domain_verify" content="040f3f8bf7a04fd35fd5dede16a6a681"/>
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.narragansettbeer.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="icon" href="http://www.narragansettbeer.com/wp-content/uploads/2018/04/cropped-Website-Favicon-400x400.png" sizes="32x32" />
+<link rel="icon" href="http://www.narragansettbeer.com/wp-content/uploads/2018/04/cropped-Website-Favicon-400x400.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.narragansettbeer.com/wp-content/uploads/2018/04/cropped-Website-Favicon-400x400.png" />
+<meta name="msapplication-TileImage" content="http://www.narragansettbeer.com/wp-content/uploads/2018/04/cropped-Website-Favicon-400x400.png" />
+		<style type="text/css" id="wp-custom-css">
+			.pum-overlay {z-index:10 !important;}
+.pum-overlay .ctct-email {
+	    border: 1px solid #e8e8e8;
+	margin-left:12px;
+	    -moz-appearance: none;
+	-webkit-appearance: none;
+    padding: 10px 14px;
+    font-size: 0.9em;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+    outline: 0;
+    -moz-transition-property: border,background-color;
+    -o-transition-property: border,background-color;
+    -webkit-transition-property: border,background-color;
+    transition-property: border,background-color;
+    -moz-transition-duration: 0.45s;
+    -o-transition-duration: 0.45s;
+    -webkit-transition-duration: 0.45s;
+    transition-duration: 0.45s;
+}
+.pum-overlay .ctct-form-wrapper .ctct-submit {
+	background-color: #c3112e;
+	    color: #fff5de;
+	-webkit-border-radius: 3px;
+    border-radius: 3px;
+    font-size: 0.85em;
+    font-weight: 600;
+    padding: 8px 20px 8px 20px;
+    -moz-transition-property: padding,color,border,background-color;
+    -o-transition-property: padding,color,border,background-color;
+    -webkit-transition-property: padding,color,border,background-color;
+    transition-property: padding,color,border,background-color;
+    -moz-transition-duration: 0.25s;
+    -o-transition-duration: 0.25s;
+    -webkit-transition-duration: 0.25s;
+    transition-duration: 0.25s;
+    border: 0px;
+    position: relative;
+}
+@media only screen and (max-width: 1200px){
+.pum-theme-166352 .pum-content + .pum-close, .pum-theme-lightbox .pum-content + .pum-close {
+	right: 6px;
+    top: 6px;
+}
+}
+@media only screen and (max-width: 600px){
+.pum-theme-166352 .pum-container, .pum-theme-lightbox .pum-container {
+    padding: 8px;
+    border: 4px solid #b80427;
+	}
+	.pum-theme-166352 .pum-content, .pum-theme-lightbox .pum-content {
+		font-size:13px;
+	}
+	.pum-theme-166352 .pum-title, .pum-theme-lightbox .pum-title {
+font-size:22px;		
+	}
+}		</style>
+	<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><script type="text/javascript">(function(){var N=this;N.N2_=N.N2_||{r:[],d:[]},N.N2R=N.N2R||function(){N.N2_.r.push(arguments)},N.N2D=N.N2D||function(){N.N2_.d.push(arguments)}}).call(window);if(!window.n2jQuery){window.n2jQuery={ready:function(cb){console.error('n2jQuery will be deprecated!');N2R(['$'],cb)}}}window.nextend={localization:{},ready:function(cb){console.error('nextend.ready will be deprecated!');N2R('documentReady',function($){cb.call(window,$)})}};</script><script type="text/javascript" src="//www.narragansettbeer.com/wp-content/plugins/smart-slider-3/nextend/media/dist/n2.min.js?1533756707"></script>
+<script type="text/javascript" src="//www.narragansettbeer.com/wp-content/plugins/smart-slider-3/nextend/media/dist/nextend-frontend.min.js?1533756707"></script>
+<script type="text/javascript" src="//www.narragansettbeer.com/wp-content/plugins/smart-slider-3/library/media/dist/smartslider-frontend.min.js?1533756707"></script>
+<script type="text/javascript" src="//www.narragansettbeer.com/wp-content/plugins/smart-slider-3/library/media/plugins/type/simple/simple/dist/smartslider-simple-type-frontend.min.js?1533756707"></script>
+<script type="text/javascript">N2R('documentReady',function($){N2R(["nextend-frontend","smartslider-frontend","smartslider-simple-type-frontend"],function(){new N2Classes.SmartSliderSimple('#n2-ss-2',{"admin":false,"translate3d":1,"callbacks":"","background.video.mobile":1,"align":"normal","isDelayed":0,"load":{"fade":1,"scroll":0},"playWhenVisible":1,"playWhenVisibleAt":0.5,"responsive":{"desktop":1,"tablet":1,"mobile":1,"onResizeEnabled":true,"type":"auto","downscale":1,"upscale":1,"minimumHeight":0,"maximumHeight":3000,"maximumSlideWidth":3000,"maximumSlideWidthLandscape":3000,"maximumSlideWidthTablet":3000,"maximumSlideWidthTabletLandscape":3000,"maximumSlideWidthMobile":3000,"maximumSlideWidthMobileLandscape":3000,"maximumSlideWidthConstrainHeight":0,"forceFull":0,"forceFullOverflowX":"body","forceFullHorizontalSelector":"","constrainRatio":1,"verticalOffsetSelectors":"","decreaseSliderHeight":0,"focusUser":0,"focusAutoplay":0,"deviceModes":{"desktopPortrait":1,"desktopLandscape":0,"tabletPortrait":1,"tabletLandscape":0,"mobilePortrait":1,"mobileLandscape":0},"normalizedDeviceModes":{"unknownUnknown":["unknown","Unknown"],"desktopPortrait":["desktop","Portrait"],"desktopLandscape":["desktop","Portrait"],"tabletPortrait":["tablet","Portrait"],"tabletLandscape":["tablet","Portrait"],"mobilePortrait":["mobile","Portrait"],"mobileLandscape":["mobile","Portrait"]},"verticalRatioModifiers":{"unknownUnknown":1,"desktopPortrait":1,"desktopLandscape":1,"tabletPortrait":1,"tabletLandscape":1,"mobilePortrait":1,"mobileLandscape":1},"minimumFontSizes":{"desktopPortrait":4,"desktopLandscape":4,"tabletPortrait":4,"tabletLandscape":4,"mobilePortrait":4,"mobileLandscape":4},"ratioToDevice":{"Portrait":{"tablet":0.7,"mobile":0.5},"Landscape":{"tablet":0,"mobile":0}},"sliderWidthToDevice":{"desktopPortrait":1280,"desktopLandscape":1280,"tabletPortrait":896,"tabletLandscape":0,"mobilePortrait":640,"mobileLandscape":0},"basedOn":"combined","orientationMode":"width_and_height","scrollFix":0,"overflowHiddenPage":0,"desktopPortraitScreenWidth":1200,"tabletPortraitScreenWidth":800,"mobilePortraitScreenWidth":440,"tabletLandscapeScreenWidth":800,"mobileLandscapeScreenWidth":440},"controls":{"scroll":0,"drag":1,"touch":"horizontal","keyboard":1,"tilt":0},"lazyLoad":0,"lazyLoadNeighbor":0,"blockrightclick":0,"maintainSession":0,"autoplay":{"enabled":1,"start":1,"duration":8000,"autoplayToSlide":-1,"autoplayToSlideIndex":-1,"allowReStart":0,"pause":{"click":1,"mouse":"0","mediaStarted":1},"resume":{"click":0,"mouse":0,"mediaEnded":1,"slidechanged":0}},"perspective":1500,"layerMode":{"playOnce":0,"playFirstLayer":1,"mode":"skippable","inAnimation":"mainInEnd"},"background.parallax.tablet":0,"background.parallax.mobile":0,"initCallbacks":["new N2Classes.FrontendItemYouTube(this, \"n2-ss-2item1\", {\"image\":\"https:\\\/\\\/i.ytimg.com\\\/vi\\\/jwLz_77AwG8\\\/maxresdefault.jpg\",\"start\":\"0\",\"volume\":-1,\"autoplay\":0,\"controls\":1,\"center\":0,\"loop\":0,\"reset\":0,\"theme\":\"dark\",\"related\":\"0\",\"vq\":\"default\",\"code\":\"https:\\\/\\\/www.youtube.com\\\/watch?v=jwLz_77AwG8\",\"youtubeurl\":\"https:\\\/\\\/www.youtube.com\\\/watch?v=jwLz_77AwG8\",\"defaultimage\":\"maxresdefault\",\"showinfo\":1,\"modestbranding\":1,\"playbutton\":1,\"scroll-pause\":\"partly-visible\",\"query\":[],\"youtubecode\":\"jwLz_77AwG8\",\"privacy-enhanced\":0}, 1);","new N2Classes.FrontendItemYouTube(this, \"n2-ss-2item2\", {\"image\":\"https:\\\/\\\/i.ytimg.com\\\/vi\\\/KafUM9jQwfc\\\/maxresdefault.jpg\",\"start\":\"0\",\"volume\":-1,\"autoplay\":0,\"controls\":1,\"center\":0,\"loop\":0,\"reset\":0,\"theme\":\"dark\",\"related\":\"0\",\"vq\":\"default\",\"code\":\"https:\\\/\\\/www.youtube.com\\\/watch?v=KafUM9jQwfc\",\"youtubeurl\":\"https:\\\/\\\/www.youtube.com\\\/watch?v=KafUM9jQwfc\",\"defaultimage\":\"maxresdefault\",\"showinfo\":1,\"modestbranding\":1,\"playbutton\":1,\"scroll-pause\":\"partly-visible\",\"query\":[],\"youtubecode\":\"KafUM9jQwfc\",\"privacy-enhanced\":0}, 1);","new N2Classes.FrontendItemYouTube(this, \"n2-ss-2item3\", {\"image\":\"https:\\\/\\\/i.ytimg.com\\\/vi\\\/ZJXAUKL41hM\\\/maxresdefault.jpg\",\"start\":\"0\",\"volume\":-1,\"autoplay\":0,\"controls\":1,\"center\":0,\"loop\":0,\"reset\":0,\"theme\":\"dark\",\"related\":\"0\",\"vq\":\"default\",\"code\":\"https:\\\/\\\/www.youtube.com\\\/watch?v=ZJXAUKL41hM\",\"youtubeurl\":\"https:\\\/\\\/www.youtube.com\\\/watch?v=ZJXAUKL41hM\",\"defaultimage\":\"maxresdefault\",\"showinfo\":1,\"modestbranding\":1,\"playbutton\":1,\"scroll-pause\":\"partly-visible\",\"query\":[],\"youtubecode\":\"ZJXAUKL41hM\",\"privacy-enhanced\":0}, 1);","N2D(\"SmartSliderWidgetArrowImage\",function(i,e){function t(e,t,s,h){this.slider=e,this.slider.started(i.proxy(this.start,this,t,s,h))}return t.prototype.start=function(e,t,s){return this.slider.sliderElement.data(\"arrow\")?!1:(this.slider.sliderElement.data(\"arrow\",this),this.deferred=i.Deferred(),this.slider.sliderElement.on(\"SliderDevice\",i.proxy(this.onDevice,this)).trigger(\"addWidget\",this.deferred),this.previous=i(\"#\"+this.slider.elementID+\"-arrow-previous\").on(\"click\",i.proxy(function(i){i.stopPropagation(),this.slider[n2const.rtl.previous]()},this)),this.previousResize=this.previous.find(\".n2-resize\"),0==this.previousResize.length&&(this.previousResize=this.previous),this.next=i(\"#\"+this.slider.elementID+\"-arrow-next\").on(\"click\",i.proxy(function(i){i.stopPropagation(),this.slider[n2const.rtl.next]()},this)),this.nextResize=this.next.find(\".n2-resize\"),0==this.nextResize.length&&(this.nextResize=this.next),this.desktopRatio=e,this.tabletRatio=t,this.mobileRatio=s,void i.when(this.previous.n2imagesLoaded(),this.next.n2imagesLoaded()).always(i.proxy(this.loaded,this)))},t.prototype.loaded=function(){this.previousResize.css(\"display\",\"inline-block\"),this.previousWidth=this.previousResize.width(),this.previousHeight=this.previousResize.height(),this.previousResize.css(\"display\",\"\"),this.nextResize.css(\"display\",\"inline-block\"),this.nextWidth=this.nextResize.width(),this.nextHeight=this.nextResize.height(),this.nextResize.css(\"display\",\"\"),this.previousResize.find(\"img\").css(\"width\",\"100%\"),this.nextResize.find(\"img\").css(\"width\",\"100%\"),this.onDevice(null,{device:this.slider.responsive.getDeviceMode()}),this.deferred.resolve()},t.prototype.onDevice=function(i,e){var t=1;switch(e.device){case\"tablet\":t=this.tabletRatio;break;case\"mobile\":t=this.mobileRatio;break;default:t=this.desktopRatio}this.previousResize.width(this.previousWidth*t),this.previousResize.height(this.previousHeight*t),this.nextResize.width(this.nextWidth*t),this.nextResize.height(this.nextHeight*t)},t});","new N2Classes.SmartSliderWidgetArrowImage(this, 1, 0.7, 0.5);","N2D(\"SmartSliderWidgetThumbnailDefault\",function(t,i){\"use strict\";function s(i,s){this.slider=i,this.slider.started(t.proxy(this.start,this,s))}var e=(window.navigator.pointerEnabled||window.navigator.msPointerEnabled,!1);s.prototype.start=function(i){if(this.slider.sliderElement.data(\"thumbnail\"))return!1;this.slider.sliderElement.data(\"thumbnail\",this),this.parameters=t.extend({captionSize:0,minimumThumbnailCount:1.5,invertGroupDirection:0},i),this.ratio=1,this.hidden=!1,this.forceHidden=!1,this.forceHiddenCB=null,this.group=2,this.itemPerPane=1,this.currentI=0,this.offset=0,this.horizontal={prop:\"width\",Prop:\"Width\",sideProp:n2const.rtl.left,invProp:\"height\",axis:\"x\",outerProp:\"outerWidth\"},this.vertical={prop:\"height\",Prop:\"Height\",sideProp:\"top\",invProp:\"width\",axis:\"y\",outerProp:\"outerHeight\"},this.group=parseInt(i.group),this.orientation=i.orientation,\"vertical\"===this.orientation&&(this.goToDot=this._goToDot),this.outerBar=this.slider.sliderElement.find(\".nextend-thumbnail-default\"),this.bar=this.outerBar.find(\".nextend-thumbnail-inner\"),this.scroller=this.bar.find(\".nextend-thumbnail-scroller\");var s=\"universalclick\";if(\"mouseenter\"===i.action?s=\"mouseenter\":this.slider.hasTouch()&&(s=\"n2click\"),this.dots=this.scroller.find(\"> div\").on(s,t.proxy(this.onDotClick,this)),this.images=this.dots.find(\".n2-ss-thumb-image\"),n2const.rtl.isRtl?(this.previous=this.outerBar.find(\".nextend-thumbnail-next\").on(\"click\",t.proxy(this.previousPane,this)),this.next=this.outerBar.find(\".nextend-thumbnail-previous\").on(\"click\",t.proxy(this.nextPane,this))):(this.previous=this.outerBar.find(\".nextend-thumbnail-previous\").on(\"click\",t.proxy(this.previousPane,this)),this.next=this.outerBar.find(\".nextend-thumbnail-next\").on(\"click\",t.proxy(this.nextPane,this))),this.slider.hasTouch()&&(N2Classes.EventBurrito(this.outerBar.get(0),{mouse:this.slider.parameters.controls.drag,axis:\"vertical\"===this.orientation?\"y\":\"x\",start:t.proxy(function(){this._touch={start:parseInt(this.scroller.css(this[this.orientation].sideProp)),max:this.bar[this[this.orientation].prop]()-this.scroller[this[this.orientation].outerProp](!0)},this._touch.current=this._touch.start},this),move:t.proxy(function(t,i,s,e,o){return this._touch.current=Math.max(this._touch.max,Math.min(0,this._touch.start+s[this[this.orientation].axis])),this.scroller.css(this[this.orientation].sideProp,this._touch.current),Math.abs(s[this[this.orientation].axis])>5},this),end:t.proxy(function(t,i,s,e,o){40>Math.abs(this._touch.start-this._touch.current)?this.resetPane():this._touch.current>this._touch.start?this.previousPane():this.nextPane(),10>Math.abs(s.x)&&10>Math.abs(s.y)?this.onTap(t):nextend.preventClick(),delete this._touch},this)}),this.slider.parameters.controls.drag||this.outerBar.on(\"click\",t.proxy(this.onTap,this))),this.slider.isShuffled){for(var e=0;this.slider.realSlides.length>e;e++){var o=this.slider.realSlides[e];this.dots.eq(o.originalIndex).appendTo(this.scroller)}this.dots=this.scroller.find(\"> div\")}if(this.thumbnailDimension={widthLocal:this.dots.width(),width:this.dots.outerWidth(!0),height:this.dots.outerHeight(!0),widthBorder:parseInt(this.dots.css(\"borderLeftWidth\"))+parseInt(this.dots.css(\"borderRightWidth\")),heightBorder:parseInt(this.dots.css(\"borderTopWidth\"))+parseInt(this.dots.css(\"borderBottomWidth\"))},this.thumbnailDimension.widthMargin=this.thumbnailDimension.width-this.dots.outerWidth(),this.thumbnailDimension.heightMargin=this.thumbnailDimension.height-this.dots.outerHeight(),this.imageDimension={width:this.images.outerWidth(!0),height:this.images.outerHeight(!0)},this.sideDimension=.25*this.thumbnailDimension[this[this.orientation].prop],\"horizontal\"===this.orientation?(this.scroller.height(this.thumbnailDimension.height*this.group),this.bar.height(this.scroller.outerHeight(!0))):(this.scroller.width(this.thumbnailDimension.width*this.group),this.bar.width(this.scroller.outerWidth(!0))),this.slider.sliderElement.on({BeforeVisible:t.proxy(this.onReady,this),sliderSwitchTo:t.proxy(this.onSlideSwitch,this)}),this.slider.firstSlideReady.done(t.proxy(this.onFirstSlideSet,this)),0==i.overlay){var r=!1;switch(i.area){case 1:r=\"Top\";break;case 12:r=\"Bottom\";break;case 5:r=\"Left\";break;case 8:r=\"Right\"}r&&(this.offset=parseFloat(this.outerBar.data(\"offset\")),this.slider.responsive.addStaticMargin(r,this))}},s.prototype.onTap=function(i){e||(t(i.target).trigger(\"n2click\"),e=!0,setTimeout(function(){e=!1},500))},s.prototype.onFirstSlideSet=function(t){this.activateDots(t.index),this.goToDot(t.index)},s.prototype.onReady=function(){this.slider.sliderElement.on(\"SliderResize\",t.proxy(this.onSliderResize,this)),this.onSliderResize()},s.prototype.onSliderResize=function(){null!==this.forceHiddenCB&&this.forceHiddenCB.call(this),this.adjustScrollerSize();var t=this.slider.currentSlide.index;this.activateDots(t),this.goToDot(t)},s.prototype.adjustScrollerSize=function(){var t=this[this.orientation].prop,i=Math.ceil(this.dots.length\/this.group)*this.thumbnailDimension[t]*this.ratio,s=this.scroller[\"outer\"+this[this.orientation].Prop]()-this.scroller[t](),e=this.slider.dimensions[\"thumbnail\"+t];e>=i+s?this.scroller[t](e-s):this.scroller[t](i),\"horizontal\"===this.orientation?this.scroller.height(this.dots.outerHeight(!0)*this.group):this.scroller.width(this.dots.outerWidth(!0)*this.group)};var o=!1;return s.prototype.onDotClick=function(i){o||(this.slider.directionalChangeToReal(this.dots.index(i.currentTarget)),o=!0),setTimeout(t.proxy(function(){o=!1},this),400)},s.prototype.onSlideSwitch=function(t,i,s){this.activateDots(i),this.goToDot(s)},s.prototype.activateDots=function(t){this.dots.filter(\".n2-active\").removeClass(\"n2-active\");for(var i=this.slider.slides[t].slides,s=0;i.length>s;s++)this.dots.eq(i[s].index).addClass(\"n2-active\")},s.prototype.resetPane=function(){this.goToDot(this.currentI)},s.prototype.previousPane=function(){this.goToDot(this.currentI-this.itemPerPane*this.group)},s.prototype.nextPane=function(){this.goToDot(this.currentI+this.itemPerPane*this.group)},s.prototype.goToDot=function(t){var i=this[this.orientation],s=1,e=this.slider.dimensions[\"thumbnail\"+i.prop],o=this.sideDimension,r=e-2*o,h=r\/this.thumbnailDimension[i.prop];if(this.parameters.minimumThumbnailCount>=h&&(o=.1*e,r=e-2*o,s=r\/(this.parameters.minimumThumbnailCount*this.thumbnailDimension[i.prop]),h=r\/(this.thumbnailDimension[i.prop]*s)),this.ratio!==s){var n={};n[i.prop]=parseInt(this.thumbnailDimension[i.prop]*s-this.thumbnailDimension[i.prop+\"Margin\"]-this.thumbnailDimension[i.prop+\"Border\"]),n[i.invProp]=parseInt((this.thumbnailDimension[i.invProp]-this.parameters.captionSize)*s-this.thumbnailDimension[i.prop+\"Margin\"]+this.parameters.captionSize-this.thumbnailDimension[i.invProp+\"Border\"]),this.dots.css(n);var a=this.dots.width()\/this.thumbnailDimension.widthLocal;n={},n[i.prop]=Math.ceil(this.imageDimension[i.prop]*a),n[i.invProp]=Math.ceil(this.imageDimension[i.invProp]*a),this.images.css(n),this.bar.css(i.invProp,\"auto\"),this.ratio=s,this.slider.responsive.doNormalizedResize(),this.adjustScrollerSize()}h=Math.floor(h),t=Math.max(0,Math.min(this.dots.length-1,t));var l,d={};l=this.parameters.invertGroupDirection?Math.floor(t%Math.ceil(this.dots.length\/this.group)\/h):Math.floor(t\/this.group\/h);var u=-(this.scroller[\"outer\"+i.Prop]()-e);l===Math.floor((this.dots.length-1)\/this.group\/h)?(d[i.sideProp]=-(l*h*this.thumbnailDimension[i.prop]*s),0===l?this.previous.removeClass(\"n2-active\"):this.previous.addClass(\"n2-active\"),this.next.removeClass(\"n2-active\")):l>0?(d[i.sideProp]=-(l*h*this.thumbnailDimension[i.prop]*s-o),this.previous.addClass(\"n2-active\"),this.next.addClass(\"n2-active\")):(d[i.sideProp]=0,this.previous.removeClass(\"n2-active\"),this.next.addClass(\"n2-active\")),u>=d[i.sideProp]&&(d[i.sideProp]=u,this.next.removeClass(\"n2-active\")),NextendTween.to(this.scroller,.5,d),this.currentI=t,this.itemPerPane=h},s.prototype._goToDot=function(i){if(!this.forceHidden){var s=this[this.orientation],e=this.slider.dimensions[\"thumbnail\"+s.prop],o=(e-2*this.sideDimension)\/this.thumbnailDimension[s.prop];if(0===e||0!==e&&this.parameters.minimumThumbnailCount-.5>o?this.hidden||(\"horizontal\"===this.orientation?this.outerBar.css(\"height\",0):this.outerBar.css(\"width\",0),this.hidden=!0,this.forceHidden=!0,setTimeout(t.proxy(function(){this.forceHiddenCB=function(){this.forceHiddenCB=null,this.forceHidden=!1}},this),300),this.slider.responsive.doNormalizedResize()):this.hidden&&o>=this.parameters.minimumThumbnailCount+.5&&(this.hidden=!1,\"horizontal\"===this.orientation?this.outerBar.css(\"height\",\"\"):this.outerBar.css(\"width\",\"\"),this.slider.responsive.doNormalizedResize()),!this.hidden){o=Math.floor(o),i=Math.max(0,Math.min(this.dots.length-1,i));var r,h={};r=this.parameters.invertGroupDirection?Math.floor(i%Math.ceil(this.dots.length\/this.group)\/o):Math.floor(i\/this.group\/o);var n=-(this.scroller[\"outer\"+s.Prop]()-e);r===Math.floor((this.dots.length-1)\/this.group\/o)?(h[s.sideProp]=-(r*o*this.thumbnailDimension[s.prop]),0===r?this.previous.removeClass(\"n2-active\"):this.previous.addClass(\"n2-active\"),this.next.removeClass(\"n2-active\")):r>0?(h[s.sideProp]=-(r*o*this.thumbnailDimension[s.prop]-this.sideDimension),this.previous.addClass(\"n2-active\"),this.next.addClass(\"n2-active\")):(h[s.sideProp]=0,this.previous.removeClass(\"n2-active\"),this.next.addClass(\"n2-active\")),n>=h[s.sideProp]&&(h[s.sideProp]=n,this.next.removeClass(\"n2-active\")),NextendTween.to(this.scroller,.5,h)}this.currentI=i,this.itemPerPane=o}},s.prototype.isVisible=function(){return this.outerBar.is(\":visible\")},s.prototype.getSize=function(){return\"horizontal\"===this.orientation?this.outerBar.height()+this.offset:this.outerBar.width()+this.offset},s});","new N2Classes.SmartSliderWidgetThumbnailDefault(this, {\"overlay\":true,\"area\":12,\"orientation\":\"horizontal\",\"group\":1,\"action\":\"click\",\"captionSize\":0,\"minimumThumbnailCount\":1.5,\"invertGroupDirection\":0});"],"allowBGImageAttachmentFixed":false,"bgAnimationsColor":"RGBA(51,51,51,1)","bgAnimations":0,"mainanimation":{"type":"horizontal","duration":800,"delay":0,"ease":"easeOutQuad","parallax":0,"shiftedBackgroundAnimation":0},"carousel":1,"dynamicHeight":0})})});</script></head>
+<body class="home page-template-default page page-id-33387 fount_theme ctct-gansett-beer wpb-js-composer js-comp-ver-5.4.5 vc_responsive">
+	<div id="body_hider" class="hider_flag"></div>
+		<div id="body_hider_full" class="hider_flag"></div>
+	<div id="fount_wrapper" class="fount_logo_above bordered_buttons">
+		<div id="fount_to_top" class="prk_radius" data-color="#c3112e">
+	  		<i class="fount_fa-arrow-up"></i>
+	  	</div>
+		<div id="prk_pint" data-media="" data-desc=""></div>
+		<div id="prk_mega_wrap" class="ultra_wrapper" data-maxw="1140">
+			<div id="fount_ajax_back"></div>
+		<div id="prk_hidden_bar" class="small-12"><div id="prk_hidden_bar_scroller"><div id="prk_hidden_bar_inner" class="head_center_text"><div id="text-3" class="widget-1 widget-first widget widget_text vertical_widget"><div class="widget-1 widget-first widget_inner">			<div class="textwidget"><img src="http://www.narragansettbeer.com/wp-content/uploads/2015/03/Hidden-Sidebar-Logo.png" alt="" /><div class="clearfix" style="margin-bottom:32px"></div></div>
+		</div><div class="clearfix"></div></div><div id="ctct_form-2" class="widget-2 widget-last widget  vertical_widget"><div class="widget-2 widget-last widget_inner"><div class="widget-title not_zero_color header_font">Sign Up!</div><div class="clearfix"></div><div id="ctct-form-166395" class="ctct-form-wrapper"><form class="ctct-form ctct-form-166395" id="ctct-form-568312629" data-doajax="off" style="" action="" method="post"><span class="ctct-form-description" ></span><p class="ctct-form-field ctct-form-field-email ctct-form-field-required"><span class="ctct-label-top"><label for="email___ecd412e904309dcce66177488240b016">Email <abbr title="required">*</abbr></label></span><input required type="email" name="email___ecd412e904309dcce66177488240b016" id="email___ecd412e904309dcce66177488240b016"  value=""  placeholder="" class="ctct-email ctct-label-top" /></p><div class="ctct-optin-hide" style="display:none;"><p class="ctct-form-field ctct-form-field-checkbox"><span class="ctct-input-container"><input type="checkbox" checked name="ctct-opt-in" id="ctct-opt-in" class="ctct-checkbox ctct-opt-in" value="1689926888" /><label for="ctct-opt-in"> Example: Yes, I would like to receive emails from Narragansett Beer. (You can unsubscribe anytime)</label></span></p></div><!--.ctct-optin-hide --><div id="ctct_usage"><label for="ctct_usage_field">Constant Contact Use.</label><input type="text" value="" name="ctct_usage_field" id="ctct_usage_field" /></div><p class="ctct-form-field ctct-form-field-hidden"><input  type="hidden" name="ctct-id" id="ctct-id"  value="166395"  placeholder="" class="ctct-hidden ctct-label-" /><p class="ctct-form-field ctct-form-field-hidden"><input  type="hidden" name="ctct-verify" id="ctct-verify"  value="Xb672OZZPE8Dt3iYJCKeErmhf"  placeholder="" class="ctct-hidden ctct-label-" /><input type="hidden" name="ctct_time" value="1570703164" /><p class="ctct-form-field ctct-form-field-submit"><input  type="submit" name="ctct-submitted" id="ctct-submitted"  value="ENTER NOW!"  placeholder="" class="ctct-submit ctct-label-" /></p><input type="hidden" id="ctct_form" name="ctct_form" value="8f407c4f5a" /><input type="hidden" name="_wp_http_referer" value="/" /><div class="ctct-disclosure"><hr><sub>By submitting this form, you are consenting to receive marketing emails from: Narragansett Brewing Company, 461 Main St., Pawtucket, RI, 02860, http://www.narragansettbeer.com. You can revoke your consent to receive emails at any time by using the SafeUnsubscribe&reg; link, found at the bottom of every email. <a href="https://www.constantcontact.com/legal/service-provider" target="_blank">Emails are serviced by Constant Contact</a></sub></div></form><script type="text/javascript">var ajaxurl = "http://www.narragansettbeer.com/wp-admin/admin-ajax.php";</script></div><!-- .ctct-form-wrapper --></div><div class="clearfix"></div></div><div class="clearfix"></div></div></div></div>		<div id="wrap" class="container columns zero_side_pad centered" role="document">
+			<div id="prk_responsive_menu" class="classic_menu columns small-12" data-height="55" data-collapsed="55" data-offsetter="55" data-opacity="95" data-default="25">
+				<div id="prk_menu_right_trigger_alt" class="right_floated">
+					<img src="http://www.narragansettbeer.com/wp-content/uploads/2018/02/newsletter.png" alt="" /> 
+				</div>
+										<div id="prk_logos">
+							<div id="gb_green_bar" class="row header_font">
+								<div class="columns small-6">
+									MADE ON HONOR
+								</div>
+								<div class="columns small-6">
+									SOLD ON MERIT
+								</div>
+							</div>
+							<a href="http://www.narragansettbeer.com/" class="regular_anchor_menu">
+								<div id="fount_logo_holder">
+								<div id="fount_logo_before"><img src="http://www.narragansettbeer.com/wp-content/uploads/2015/03/collapsed.png" data-width="313" alt="" width="313" height="139" id="prk_logo_image" /></div><div id="fount_logo_after"><img src="http://www.narragansettbeer.com/wp-content/uploads/2018/02/logo.png" data-width="332" alt="" width="332" height="182" id="prk_alt_logo_image" /></div>								</div>
+							</a>
+						</div>
+				  					<div id="gansett_header">
+					<div class="columns small-12 prk_inner_block small-centered">
+						<div id="gansett_header_center">
+							<a href="http://www.narragansettbeer.com/" class="in_link"></a>
+						</div>
+						<div id="gansett_header_right">
+							<div id="mini_social_nets_header" class="right_floated">
+								<a href="https://www.facebook.com/narragansettbeer" target="_blank" data-color="#1f69b3">
+									<div class="fount_fa-facebook"></div>
+								</a>
+								<a href="https://twitter.com/Gansettbeer" target="_blank" data-color="#43b3e5">
+									<div class="fount_fa-twitter"></div>
+								</a>
+								<a href="http://instagram.com/gansettbeer" target="_blank" data-color="#547FA2">
+									<div class="fount_fa-instagram"></div>
+								</a>
+								<a href="https://www.pinterest.com/gansettbeer/" target="_blank" data-color="#fb2d39"><div class="fount_fa-pinterest"></div></a>
+								<a href="https://www.youtube.com/user/NarragansettBeer" target="_blank" data-color="#fb2d39"><div class="fount_fa-youtube-play"></div></a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="prk_responsive_menu_inner" class="small-12" data-0-start="position:absolute;" data-0-top="position:fixed;">
+					<div id="prk_menu_els" class="columns small-12 prk_inner_block small-centered">
+											<div id="menu_section" data-color="#c3112e">
+						<a href="http://www.narragansettbeer.com/" class="in_link">
+						<div id="fount_logo_before"><img src="http://www.narragansettbeer.com/wp-content/uploads/2015/03/collapsed.png" data-width="313" alt="" width="313" height="139" id="prk_logo_image" /></div></a>								<nav id="nav-main" role="navigation">
+									<div class="nav-wrap header_font">
+																					  	<div id="fount_left_floater" class="left_floated">
+												  	<div id="prk_menu_left_trigger" class="left_floated" data-color="#c3112e">
+														<div class="prk_blocks">
+															<div class="prk_menu_block prk_bl1"></div>
+											                <div class="prk_menu_block prk_bl2"></div>
+											                <div class="prk_menu_block prk_bl3"></div>
+														</div>
+												  	</div>
+											  	</div>
+											  	<ul class="sf-menu sf-vertical mini-site-header"><li id="menu-item-34503" class="prk_regular_menu menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.narragansettbeer.com/beers"><span>BEERS</span></a></li>
+<li id="menu-item-34511" class="prk_regular_menu menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.narragansettbeer.com/our-story"><span>OUR STORY</span></a></li>
+<li id="menu-item-167574" class="prk_regular_menu menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="http://shop.gansett.com"><span>SHOP</span></a></li>
+<li id="menu-item-34510" class="prk_regular_menu menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.narragansettbeer.com/recipes"><span>RECIPES</span></a></li>
+<li id="menu-item-34668" class="prk_regular_menu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://www.narragansettbeer.com/made-on-honor"><span>MADE ON HONOR</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-165803" class="prk_regular_menu menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.narragansettbeer.com/made-on-honor-market"><span>Made On Honor Market</span></a></li>
+</ul>
+</li>
+<li id="menu-item-101823" class="prk_regular_menu menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.narragansettbeer.com/neighborhood-events"><span>NEIGHBORHOOD WATCH</span></a></li>
+</ul>								   </div>
+								</nav>
+								<div id="fount_top_floater"><div id="mini_social_nets" class="left_floated"><a href="https://www.facebook.com/narragansettbeer" target="_blank" data-color="#1f69b3"><div class="fount_fa-facebook"></div></a><a href="https://twitter.com/Gansettbeer" target="_blank" data-color="#43b3e5"><div class="fount_fa-twitter"></div></a><a href="http://instagram.com/gansettbeer" target="_blank" data-color="#547FA2"><div class="fount_fa-instagram"></div></a><a href="https://www.youtube.com/user/NarragansettBeer" target="_blank" data-color="#fb2d39"><div class="fount_fa-youtube"></div></a><a href="https://www.pinterest.com/gansettbeer/" target="_blank" data-color="#df2126"><div class="icon-pinterest"></div></a></div><div id="prk_menu_right_trigger" class="left_floated" data-color="#c3112e"><div class="fount_fa-envelope-o"></div></div></div>						<div class="clearfix"></div>
+					</div>
+					<div class="clearfix"></div>
+					</div>
+				</div>
+			</div>
+						<div id="fount_ajax_wrapper">
+				<div id="fount_ajax_holder"></div>
+			</div>
+			<div id="top_bar_wrapper">
+				<div id="top_bar_nav">
+					<div class="squared_button left_floated">
+					  <div id="fount_left" class="fount_left_figure left_floated small_headings_color">
+					  	<div class="inner_mover">
+						    <div class="mover">
+						      <i class="fount_fa-arrow-left"></i>
+						      <i class="fount_fa-arrow-left second"></i>
+						    </div>
+						</div>
+					  </div>
+					</div>
+					<div id="squared_close" class="squared_button left_floated">
+						<div id="fount_close" class="fount_close_figure left_floated small_headings_color">
+					  		<i class="fount_fa-times"></i>
+						</div>
+					</div>
+					<div class="squared_button left_floated">
+					  <div id="fount_right" class="fount_right_figure left_floated small_headings_color">
+					    <div class="inner_mover">
+					    	<div class="mover">	
+					    		<i class="fount_fa-arrow-right"></i>
+					    		<i class="fount_fa-arrow-right second"></i>
+					    	</div>
+					    </div>
+					  </div>
+					</div>
+				</div>
+			</div>
+		<div id="prk_ajax_container" data-ajax_path="http://www.narragansettbeer.com/wp-content/themes/gansett-beer/inc/ajax-handler.php" data-retina="prk_not_retina"><div id="centered_block" class="forced_menu">
+<div id="main_block" class="block_with_sections page-33387">
+        <div id="content">
+        <div id="main" role="main" class="row untitled_main">
+            <div class="featured_owl owl_regular"><div id="prk_slider_843" class="per_init owl-carousel fount_shortcode_slider "  data-autoplay="true" data-navigation="true" data-pagination="false" data-delay="6000" data-hover="" data-color="#c3112e" data-touch=false><div id="fount_slide_0" class="item medium fount_noback"><a href="http://www.narragansettbeer.com/made-on-honor-market" target="_self" class="fade_anchor"><img class="lazyOwl fount_vsbl" src="#" data-src="http://www.narragansettbeer.com/wp-content/uploads/2019/09/MOH19-Website-Banner.jpg" alt="" width="2233" height="791" data-or_w="2233" data-or_h="791" /></a></div><div id="fount_slide_1" class="item medium fount_noback"><a href="http://www.narragansettbeer.com/2019/01/introducing-the-buyri-tour" target="_self" class="fade_anchor"><img class="lazyOwl fount_vsbl" src="#" data-src="http://www.narragansettbeer.com/wp-content/uploads/2019/01/4017_GANS_BuyRI_WebBanner_2232x792_R1.jpg" alt="" width="2232" height="792" data-or_w="2232" data-or_h="792" /></a></div><div id="fount_slide_2" class="item medium fount_noback"><a href="http://narragansettbeer.com/beer/lager" target="_self" class="fade_anchor"><img class="lazyOwl fount_vsbl" src="#" data-src="http://www.narragansettbeer.com/wp-content/uploads/2015/02/Home-Slide-4.jpg" alt="" width="2232" height="792" data-or_w="2232" data-or_h="792" /></a></div><div id="fount_slide_3" class="item medium fount_noback"><a href="http://www.narragansettbeer.com/beer/dels-shandy" target="_self" class="fade_anchor"><img class="lazyOwl fount_vsbl" src="#" data-src="http://www.narragansettbeer.com/wp-content/uploads/2019/03/Dels-Slider.jpg" alt="" width="2232" height="792" data-or_w="2232" data-or_h="792" /></a></div><div id="fount_slide_4" class="item medium fount_noback"><a href="http://www.narragansettbeer.com/beer/fresh-catch" target="_self" class="fade_anchor"><img class="lazyOwl fount_vsbl" src="#" data-src="http://www.narragansettbeer.com/wp-content/uploads/2018/03/Fresh-Catch-Slider-Image.jpg" alt="" width="2232" height="792" data-or_w="2232" data-or_h="792" /></a></div><div id="fount_slide_5" class="item medium fount_noback"><a href="http://narragansettbeer.com/beer/lager/" target="_self" class="fade_anchor"><img class="lazyOwl fount_vsbl" src="#" data-src="http://www.narragansettbeer.com/wp-content/uploads/2015/02/Home-Slide-3.jpg" alt="" width="2232" height="792" data-or_w="2232" data-or_h="792" /></a></div><div id="fount_slide_6" class="item medium fount_noback"><a href="http://shop.narragansettbeer.com/collections/made-on-honor" target="_blank" class="fade_anchor"><img class="lazyOwl fount_vsbl" src="#" data-src="http://www.narragansettbeer.com/wp-content/uploads/2016/03/397_GANS_MOHwebbanner.gif" alt="" width="0" height="0" data-or_w="0" data-or_h="0" /></a></div></div></div><div id="fount_super_sections" class="row"><div id="fount-fake-anchor"></div><div id="gen_fount-328"class="per_init wpb_row vc_row-fluid  prk_full_width prk_section fount_row" ><div class="small-12"><div class="extra_pad prk_inner_block columns small-centered clearfix"><div class="row">
+	<div class="vc_span12 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<div class="clearfix" style="margin-top:px;"></div><div class="clearfix" style="margin-top:px;"></div><div class="prk_shortcode-title fount_centered_text not_zero_color custom_font-1 h1_sized"><div class="header_font zero_color prk_vc_title" style="color:#bf2424;border-bottom-color:rgba(191, 36, 36,0.9);text-shadow:0px 0px 1px rgba(191, 36, 36,0.2);"><h1>Latest News</h1></div><div class="clearfix"></div></div><div id="prk_shortcode_latest_posts_237" class="recentposts_ul_wp row extra_spaced home_feed"><div class="row"><div id="recent_blog-473" class="cde masonry_blog per_init" data-max-width="390" data-min-width="340" data-margin="16"><div class="blog_entry_li clearfix" data-color="default"><div class="masonry_inner boxed_shadow"><a href="http://www.narragansettbeer.com/made-on-honor-market" class="fade_anchor blog_hover"><div class="masonr_img_wp boxed_shadow"><div class="blog_fader_grid"><div class="fount_fa-plus titled_link_icon body_bk_color"></div></div><img src="http://www.narragansettbeer.com/wp-content/uploads/2019/09/MOH19-Square-Image-680x680.jpg" width="680" height="680" class="custom-img grid_image" alt="" /></div></a><div class="header_font prk_heavier_500 prk_mini_meta small_headings_color"><div class="left_floated"></div><div class="clearfix"></div></div><div class="entry_title"><h4 class="bd_headings_text_shadow prk_heavier_700 big"><a href="http://www.narragansettbeer.com/made-on-honor-market" class="prk_break_word zero_color fade_anchor">The 2019 Made On Honor Market</a></h4></div><div class="on_colored prk_break_word entry_content"><p>Shop from over 100 of our favorite small businesses, makers, and artists on November 23rd and 24th at the WaterFire Arts Center in Providence, RI.  </p>
+<div class="clearfix"></div></div><div class="blog_lower header_font row prk_heavier_500"><div class="small-12 columns"><div class="left_floated blog_categories small_headings_color"><a href="http://www.narragansettbeer.com/category/events" title="View all posts">Events</a></div><div class="single_blog_meta_div right_floated"><a href="http://www.narragansettbeer.com/made-on-honor-market" class="small_headings_color fade_anchor"><div class="left_floated">Read More</div><i class="fount_fa-chevron-right"></i></a></div><div class="clearfix"></div></div></div></div></div><div class="blog_entry_li clearfix" data-color="default"><div class="masonry_inner boxed_shadow"><a href="http://www.narragansettbeer.com/2019/09/the-return-of-the-king-fest-is-back" class="fade_anchor blog_hover"><div class="masonr_img_wp boxed_shadow"><div class="blog_fader_grid"><div class="fount_fa-plus titled_link_icon body_bk_color"></div></div><img src="http://www.narragansettbeer.com/wp-content/uploads/2018/09/IMG_2057-680x680.jpg" width="680" height="680" class="custom-img grid_image" alt="" /></div></a><div class="header_font prk_heavier_500 prk_mini_meta small_headings_color"><div class="left_floated"></div><div class="clearfix"></div></div><div class="entry_title"><h4 class="bd_headings_text_shadow prk_heavier_700 big"><a href="http://www.narragansettbeer.com/2019/09/the-return-of-the-king-fest-is-back" class="prk_break_word zero_color fade_anchor">Return of the King: Fest Marzen Lager is BACK!</a></h4></div><div class="on_colored prk_break_word entry_content"><p>Every year around this time our inboxes near explode with, &#8220;when does FEST come back&#8221; email. Well considering Oktoberfest starts on Saturday, we&#8217;re thinking now is as good as any! &#8230;</p>
+<div class="clearfix"></div></div><div class="blog_lower header_font row prk_heavier_500"><div class="small-12 columns"><div class="left_floated blog_categories small_headings_color"><a href="http://www.narragansettbeer.com/category/beers" title="View all posts">Beers</a>, <a href="http://www.narragansettbeer.com/category/news" title="View all posts">News</a></div><div class="single_blog_meta_div right_floated"><a href="http://www.narragansettbeer.com/2019/09/the-return-of-the-king-fest-is-back" class="small_headings_color fade_anchor"><div class="left_floated">Read More</div><i class="fount_fa-chevron-right"></i></a></div><div class="clearfix"></div></div></div></div></div><div class="blog_entry_li clearfix" data-color="default"><div class="masonry_inner boxed_shadow"><a href="https://shop.narragansettbeer.com/collections/winter-and-holiday" class="fade_anchor blog_hover"><div class="masonr_img_wp boxed_shadow"><div class="blog_fader_grid"><div class="fount_fa-plus titled_link_icon body_bk_color"></div></div><img src="http://www.narragansettbeer.com/wp-content/uploads/2019/09/3821_GANS_FallWinter_1200X1200-1.gif" width="680" height="0" class="custom-img grid_image" alt="" /></div></a><div class="header_font prk_heavier_500 prk_mini_meta small_headings_color"><div class="left_floated"></div><div class="clearfix"></div></div><div class="entry_title"><h4 class="bd_headings_text_shadow prk_heavier_700 big"><a href="https://shop.narragansettbeer.com/collections/winter-and-holiday" class="prk_break_word zero_color fade_anchor">Fall and Winter Collection Now Available!</a></h4></div><div class="on_colored prk_break_word entry_content"><p>We&#8217;ve got a bunch of new cooler weather gear over at the &#8216;Gansett Shop. Click here to check it all out!  </p>
+<div class="clearfix"></div></div><div class="blog_lower header_font row prk_heavier_500"><div class="small-12 columns"><div class="left_floated blog_categories small_headings_color"><a href="http://www.narragansettbeer.com/category/shop" title="View all posts">Shop</a></div><div class="single_blog_meta_div right_floated"><a href="https://shop.narragansettbeer.com/collections/winter-and-holiday" class="small_headings_color fade_anchor"><div class="left_floated">Read More</div><i class="fount_fa-chevron-right"></i></a></div><div class="clearfix"></div></div></div></div></div><div class="blog_entry_li hidden_by_css clearfixer" data-color="default"></div><div class="blog_entry_li clearfix" data-color="default"><div class="masonry_inner boxed_shadow"><a href="http://www.narragansettbeer.com/2019/08/the-fresh-catch-seafood-guide" class="fade_anchor blog_hover"><div class="masonr_img_wp boxed_shadow"><div class="blog_fader_grid"><div class="fount_fa-plus titled_link_icon body_bk_color"></div></div><img src="http://www.narragansettbeer.com/wp-content/uploads/2019/08/17_GANS_eblast_Aug_6_R2-square-680x680.jpg" width="680" height="680" class="custom-img grid_image" alt="" /></div></a><div class="header_font prk_heavier_500 prk_mini_meta small_headings_color"><div class="left_floated"></div><div class="clearfix"></div></div><div class="entry_title"><h4 class="bd_headings_text_shadow prk_heavier_700 big"><a href="http://www.narragansettbeer.com/2019/08/the-fresh-catch-seafood-guide" class="prk_break_word zero_color fade_anchor">The Fresh Catch Seafood Guide</a></h4></div><div class="on_colored prk_break_word entry_content"><div class="clearfix"></div></div><div class="blog_lower header_font row prk_heavier_500"><div class="small-12 columns"><div class="left_floated blog_categories small_headings_color"><a href="http://www.narragansettbeer.com/category/food" title="View all posts">Food</a></div><div class="single_blog_meta_div right_floated"><a href="http://www.narragansettbeer.com/2019/08/the-fresh-catch-seafood-guide" class="small_headings_color fade_anchor"><div class="left_floated">Read More</div><i class="fount_fa-chevron-right"></i></a></div><div class="clearfix"></div></div></div></div></div><div class="blog_entry_li clearfix" data-color="default"><div class="masonry_inner boxed_shadow"><a href="http://www.narragansettbeer.com/how-to-make-a-dels-shandy" class="fade_anchor blog_hover"><div class="masonr_img_wp boxed_shadow"><div class="blog_fader_grid"><div class="fount_fa-plus titled_link_icon body_bk_color"></div></div><img src="http://www.narragansettbeer.com/wp-content/uploads/2018/08/How-to-Make-a-Dels-Shandy-680x680.jpg" width="680" height="680" class="custom-img grid_image" alt="" /></div></a><div class="header_font prk_heavier_500 prk_mini_meta small_headings_color"><div class="left_floated"></div><div class="clearfix"></div></div><div class="entry_title"><h4 class="bd_headings_text_shadow prk_heavier_700 big"><a href="http://www.narragansettbeer.com/how-to-make-a-dels-shandy" class="prk_break_word zero_color fade_anchor">How to Make a Del&#8217;s Shandy</a></h4></div><div class="on_colored prk_break_word entry_content"><p>A lot of people ask us how we make our Del&#8217;s Shandy taste so refreshingly different. Experts say that the techniques needed to perfectly balance of our classic Lager and Del&#8217;s &#8230;</p>
+<div class="clearfix"></div></div><div class="blog_lower header_font row prk_heavier_500"><div class="small-12 columns"><div class="left_floated blog_categories small_headings_color"><a href="http://www.narragansettbeer.com/category/news" title="View all posts">News</a></div><div class="single_blog_meta_div right_floated"><a href="http://www.narragansettbeer.com/how-to-make-a-dels-shandy" class="small_headings_color fade_anchor"><div class="left_floated">Read More</div><i class="fount_fa-chevron-right"></i></a></div><div class="clearfix"></div></div></div></div></div><div class="blog_entry_li clearfix" data-color="default"><div class="masonry_inner boxed_shadow"><a href="http://www.narragansettbeer.com/2019/03/2019-rebus-puzzle-answers" class="fade_anchor blog_hover"><div class="masonr_img_wp boxed_shadow"><div class="blog_fader_grid"><div class="fount_fa-plus titled_link_icon body_bk_color"></div></div><img src="http://www.narragansettbeer.com/wp-content/uploads/2018/02/2018-coaster-web-576x576.jpg" width="576" height="576" class="custom-img grid_image" alt="" /></div></a><div class="header_font prk_heavier_500 prk_mini_meta small_headings_color"><div class="left_floated"></div><div class="clearfix"></div></div><div class="entry_title"><h4 class="bd_headings_text_shadow prk_heavier_700 big"><a href="http://www.narragansettbeer.com/2019/03/2019-rebus-puzzle-answers" class="prk_break_word zero_color fade_anchor">2019 Rebus Puzzle Answers</a></h4></div><div class="on_colored prk_break_word entry_content"><p>Hi Neighbor! If you&#8217;re on this page, chances are you&#8217;re sitting on a bar stool with coasters in your hand, incredibly frustrated, and probably surrounded by a group of friends &#8230;</p>
+<div class="clearfix"></div></div><div class="blog_lower header_font row prk_heavier_500"><div class="small-12 columns"><div class="left_floated blog_categories small_headings_color"><a href="http://www.narragansettbeer.com/category/rebus-puzzles" title="View all posts">Rebus Puzzles</a></div><div class="single_blog_meta_div right_floated"><a href="http://www.narragansettbeer.com/2019/03/2019-rebus-puzzle-answers" class="small_headings_color fade_anchor"><div class="left_floated">Read More</div><i class="fount_fa-chevron-right"></i></a></div><div class="clearfix"></div></div></div></div></div><div class="blog_entry_li hidden_by_css clearfixer" data-color="default"></div></div></div></div>
+		</div> 
+	</div> 
+</div></div></div></div><div class="clearfix"></div><div id="gen_fount-98"class="per_init wpb_row vc_row-fluid  prk_full_width prk_section fount_row"  style="background-color:#eadab6;"><div class="small-12"><div class="extra_pad prk_inner_block columns small-centered clearfix"><div class="row">
+	<div class="vc_span12 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<div class="prk_shortcode-title fount_centered_text not_zero_color custom_font-1 h1_sized"><div class="header_font zero_color prk_vc_title" style="color:#bf2424;border-bottom-color:rgba(191, 36, 36,0.9);text-shadow:0px 0px 1px rgba(191, 36, 36,0.2);"><h1>'Gansett on Instagram</h1></div><div class="clearfix"></div></div><div id="gen_fount-411"class="per_init wpb_row vc_row-fluid  fount_inner_row fount_row" ><div class="small-12"><div class="extra_pad prk_inner_block columns small-centered clearfix"><div class="row">
+	<div class="vc_span6 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<div class="prk_shortcode-title fount_centered_text not_zero_color custom_font-1 h3_sized"><div class="header_font bd_headings_text_shadow zero_color prk_vc_title"><h3>@gansettbeer</h3></div><div class="clearfix"></div></div>
+		</div> 
+	</div> 
+
+	<div class="vc_span6 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<div class="prk_shortcode-title fount_centered_text not_zero_color custom_font-1 h3_sized"><div class="header_font bd_headings_text_shadow zero_color prk_vc_title"><h3>Show Us Your #HiNeighbor</h3></div><div class="clearfix"></div></div>
+		</div> 
+	</div> 
+</div></div></div></div><div class="clearfix"></div><div id="gen_fount-744"class="per_init wpb_row vc_row-fluid  fount_inner_row fount_row" ><div class="small-12"><div class="extra_pad prk_inner_block columns small-centered clearfix"><div class="row">
+	<div class="vc_span6 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<div class="fnt_insta_wrapper fnt_insta_grid"><ul class="fnt_instagram unstyled cols-2" data-autoplay="true" data-delay="3000" data-anim="fade"><li class="item"><a href="//instagram.com/p/B3aE74JAVH4/" target="_blank"><div style="background-image:url(//scontent-lax3-2.cdninstagram.com/vp/7c209f941ad4a08fbc6d65c00938188c/5E306526/t51.2885-15/e35/p1080x1080/70520346_2453732294949034_8974974509047655306_n.jpg?_nc_ht=scontent-lax3-2.cdninstagram.com&#038;_nc_cat=110);"><div class="insta_overlay"></div><i class="fount_fa-instagram"></i><img src="http://www.narragansettbeer.com/wp-content/themes/gansett-beer/images/instaholder.png" width="1080" height="1080"  alt="Alright, it’s starting to get chilly up here in New England. We’re thinking it’s about time we gave away one of these flannels. Give us a follow and tag two friends below to be entered to win. Cursed with bad luck? Skip the risk and buy one at shop.gansett.com! #HiNeighbor #Giveaway" data-title="Alright, it’s starting to get chilly up here in New England. We’re thinking it’s about time we gave away one of these flannels. Give us a follow and tag two friends below to be entered to win. Cursed with bad luck? Skip the risk and buy one at shop.gansett.com! #HiNeighbor #Giveaway" /></div></a></li><li class="item"><a href="//instagram.com/p/B3XuXh1AlZD/" target="_blank"><div style="background-image:url(//scontent-lax3-2.cdninstagram.com/vp/688365ebdd1fec029e32bd79ca210950/5DA142F3/t51.2885-15/e35/71532526_2408137989446969_8290840247585242017_n.jpg?_nc_ht=scontent-lax3-2.cdninstagram.com&#038;_nc_cat=105);"><div class="insta_overlay"></div><i class="fount_fa-instagram"></i><img src="http://www.narragansettbeer.com/wp-content/themes/gansett-beer/images/instaholder.png" width="1080" height="1080"  alt="Last year we teamed up with @parlorskis to make these beauties. On Thursday night we’ll be starting a new secret project with them during one of their shop nights! Come on down to their shop, have some beers with us, learn more about them, and see what we’re up to.
+•
+Parlor Skis Shop Night
+Thursday, October 10th at 5:30pm
+175 William F McClellan Hwy.
+East Boston, MA
+•
+Not able to make it? Don’t fret. @parlorskis will be with us at #MOHMarket in November! #HiNeighbor #MadeOnHonor" data-title="Last year we teamed up with @parlorskis to make these beauties. On Thursday night we’ll be starting a new secret project with them during one of their shop nights! Come on down to their shop, have some beers with us, learn more about them, and see what we’re up to.
+•
+Parlor Skis Shop Night
+Thursday, October 10th at 5:30pm
+175 William F McClellan Hwy.
+East Boston, MA
+•
+Not able to make it? Don’t fret. @parlorskis will be with us at #MOHMarket in November! #HiNeighbor #MadeOnHonor" /></div></a></li><li class="clearfix"></li></ul><div class="clearfix"></div></div>
+		</div> 
+	</div> 
+
+	<div class="vc_span6 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<div id="sb_instagram" class="sbi sbi_mob_col_auto sbi_col_2" style="width:100%; padding-bottom: 10px; " data-id="" data-num="2" data-res="auto" data-cols="2" data-options='{&quot;showcaption&quot;: &quot;false&quot;, &quot;captionlength&quot;: &quot;50&quot;, &quot;captioncolor&quot;: &quot;&quot;, &quot;captionsize&quot;: &quot;13&quot;, &quot;showlikes&quot;: &quot;false&quot;, &quot;likescolor&quot;: &quot;&quot;, &quot;likessize&quot;: &quot;13&quot;, &quot;sortby&quot;: &quot;none&quot;, &quot;hashtag&quot;: &quot;hineighbor&quot;, &quot;type&quot;: &quot;hashtag&quot;, &quot;hovercolor&quot;: &quot;0,0,0&quot;, &quot;hovertextcolor&quot;: &quot;0,0,0&quot;, &quot;hoverdisplay&quot;: &quot;username,icon,date,instagram,&quot;, &quot;hovereffect&quot;: &quot;fade&quot;, &quot;headercolor&quot;: &quot;&quot;, &quot;headerprimarycolor&quot;: &quot;517fa4&quot;, &quot;headersecondarycolor&quot;: &quot;eeeeee&quot;, &quot;disablelightbox&quot;: &quot;true&quot;, &quot;captionlinks&quot;: &quot;false&quot;, &quot;disablecache&quot;: &quot;false&quot;, &quot;location&quot;: &quot;&quot;, &quot;coordinates&quot;: &quot;&quot;, &quot;single&quot;: &quot;&quot;, &quot;nummobile&quot;: &quot;2&quot;, &quot;colsmobile&quot;: &quot;auto&quot;,  &quot;lightboxcomments&quot;: &quot;true&quot;,&quot;numcomments&quot;: &quot;20&quot;,&quot;maxrequests&quot;: &quot;5&quot;, &quot;headerstyle&quot;: &quot;circle&quot;, &quot;showfollowers&quot;: &quot;true&quot;, &quot;showbio&quot;: &quot;true&quot;, &quot;carousel&quot;: &quot;[false, false, true, false, 5000]&quot;, &quot;imagepadding&quot;: &quot;5&quot;, &quot;imagepaddingunit&quot;: &quot;px&quot;, &quot;media&quot;: &quot;all&quot;, &quot;showusers&quot;: &quot;&quot;, &quot;includewords&quot;: &quot;&quot;, &quot;excludewords&quot;: &quot;&quot;, &quot;sbiCacheExists&quot;: &quot;false&quot;, &quot;sbiHeaderCache&quot;: &quot;false&quot;, &quot;sbiWhiteList&quot;: &quot;&quot;, &quot;sbiWhiteListIds&quot;: &quot;&quot;}' data-sbi-lb-comments="true"><div id="sbi_images" style="padding: 5px;"><div class="sbi_loader fa-spin"></div></div><div id="sbi_load"></div></div>
+		</div>
+	</div>
+
+		</div> 
+	</div> 
+</div></div></div></div><div class="clearfix"></div>
+		</div> 
+	</div> 
+</div></div></div></div><div class="clearfix"></div><div id="gen_fount-693"class="per_init wpb_row vc_row-fluid  prk_full_width prk_section fount_row" ><div class="small-12"><div class="extra_pad prk_inner_block columns small-centered clearfix"><div class="row">
+	<div class="vc_span12 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<div class="clearfix" style="height:40px;"></div>
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		<div class="wpb_wrapper">
+			
+			<img width="806" height="192" src="http://www.narragansettbeer.com/wp-content/uploads/2014/03/Gans_footer2.png" class="attachment-full" alt="" srcset="http://www.narragansettbeer.com/wp-content/uploads/2014/03/Gans_footer2.png 806w, http://www.narragansettbeer.com/wp-content/uploads/2014/03/Gans_footer2-400x95.png 400w, http://www.narragansettbeer.com/wp-content/uploads/2014/03/Gans_footer2-768x183.png 768w, http://www.narragansettbeer.com/wp-content/uploads/2014/03/Gans_footer2-700x167.png 700w" sizes="(max-width: 806px) 100vw, 806px" />
+		</div> 
+	</div> 
+		</div> 
+	</div> 
+</div></div></div></div><div class="clearfix"></div>
+</div>            <div class="clearfix"></div>
+        </div>
+    </div>
+</div>
+</div>
+                                    </div>
+            </div>
+                                <div id="prk_footer_wrapper" class="small-12 row no_mirror">
+                        <div id="prk_footer" class="container" data-layout="small-3">
+                            <div id="footer_revealer">
+                                                                        <div id="footer_bk" class="columns small-12 prk_inner_block small-centered">
+                                            <div id="footer_in" class="row">
+                                                <div id="widget_fount_vcard-2" class="widget-1 widget-first widget widget_fount_vcard columns"><div class="widget-1 widget-first widget_inner">	    <div class="fount_vcard">
+	    						<img src="http://www.narragansettbeer.com/wp-content/uploads/2015/03/header-logo.png" alt="" class="fount_vcard_logo" />
+						      	<div class="adr clearfix">
+	            <i class="fount_fa-map-marker fount_address_icon prk_less_opacity"></i>						<div class="street-address fount_after_vcard_icon">461 Main St.</div>
+	                    						<div class="locality fount_after_vcard_icon">Pawtucket, RI 02860</div>
+							      	</div>
+					            <div class="fount_vcard_block">
+		            	<i class="fount_fa-phone fount_address_icon prk_less_opacity"></i>
+		                <div class="fount_after_vcard_icon">
+		                	401 437 8970		                </div>
+		            </div>
+		            <div class="clearfix"></div>
+		            		            <div class="fount_vcard_block">
+		            	<i class="fount_fa-envelope fount_address_icon prk_less_opacity"></i>
+		                <div class="fount_after_vcard_icon">
+			                <a href="mailto:c&#111;&#110;ta&#99;&#116;&#64;n&#97;r&#114;&#97;ganset&#116;&#98;&#101;&#101;r&#46;&#99;&#111;&#109;" class="default_color">&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;narra&#103;a&#110;&#115;e&#116;t&#98;eer.co&#109;</a>
+			            </div>
+		            </div>
+		            <div class="clearfix"></div>
+		            	        <div class="clearfix"></div>  
+	    </div>
+	  	</div><div class="clearfix"></div></div><div id="prk_tp_widget_recent_tweets-2" class="widget-2 widget widget_prk_tp_widget_recent_tweets columns"><div class="widget-2 widget_inner"><div class="widget-title header_font bd_headings_text_shadow zero_color prk_heavier_600">Twitter</div><div class="clearfix"></div><div class="prk_recent_tweets small-12"><div class="prk_twt_avatar"><a class="default_color" target="_blank" href="http://twitter.com/gansettbeer"><img src="http://www.narragansettbeer.com/wp-content/uploads/2015/03/label_lager.png" width="" height="" /></a></div><div class="prk_twt_author header_font zero_color prk_heavier_700">gansettbeer</div><div class="prk_twt_follow"><a class="default_color" target="_blank" href="http://twitter.com/gansettbeer">Follow Us On Twitter</a></div><div class="clearfix"></div><div class="simple_line"></div><div class="fount_active_icon left_floated default_color"><i class="fount_fa-twitter"></i></div> <div class="prk_twt_ul twitter_slider per_init" data-autoplay="true" data-delay="5500"><ul class="slides"><li class="twt_item" style="float:left;width:100%;"><div class="prk_twt_body"><div class="twt_in"><a href="http://twitter.com/Its_Chad" title="Follow Its_Chad"  target="_blank"  >@Its_Chad</a> <a href="http://twitter.com/theneedledrop" title="Follow theneedledrop"  target="_blank"  >@theneedledrop</a> Hmmm let us mull it over...</div><div class="clearfix"></div><a class="twitter_time header_font prk_heavier_700" target="_blank" href="http://twitter.com/gansettbeer/statuses/1182139991784411139">11 hours ago</a><span class="twt_extra_info"> - <a class="twitter_time header_font prk_heavier_700" target="_blank" href="http://twitter.com/gansettbeer">gansettbeer</a></span></div></li><li class="twt_item" style="float:left;width:100%;"><div class="prk_twt_body"><div class="twt_in"><a href="http://twitter.com/jottaviani" title="Follow jottaviani"  target="_blank"  >@jottaviani</a> <a href="https://t.co/3qATNFE7U1" title="https://t.co/3qATNFE7U1"  target="_blank"  >https://t.co/3qATNFE7U1</a></div><div class="clearfix"></div><a class="twitter_time header_font prk_heavier_700" target="_blank" href="http://twitter.com/gansettbeer/statuses/1182125578268352512">12 hours ago</a><span class="twt_extra_info"> - <a class="twitter_time header_font prk_heavier_700" target="_blank" href="http://twitter.com/gansettbeer">gansettbeer</a></span></div></li><li class="twt_item" style="float:left;width:100%;"><div class="prk_twt_body"><div class="twt_in"><a href="http://twitter.com/KurtBusiek" title="Follow KurtBusiek"  target="_blank"  >@KurtBusiek</a> Haha clearly it was effective!</div><div class="clearfix"></div><a class="twitter_time header_font prk_heavier_700" target="_blank" href="http://twitter.com/gansettbeer/statuses/1182123452746129408">12 hours ago</a><span class="twt_extra_info"> - <a class="twitter_time header_font prk_heavier_700" target="_blank" href="http://twitter.com/gansettbeer">gansettbeer</a></span></div></li><li class="twt_item" style="float:left;width:100%;"><div class="prk_twt_body"><div class="twt_in"><a href="http://twitter.com/TomIannitti" title="Follow TomIannitti"  target="_blank"  >@TomIannitti</a> I can personally attest to that. Been wearing it every day for a year! Thanks for the love!</div><div class="clearfix"></div><a class="twitter_time header_font prk_heavier_700" target="_blank" href="http://twitter.com/gansettbeer/statuses/1182123332386328576">12 hours ago</a><span class="twt_extra_info"> - <a class="twitter_time header_font prk_heavier_700" target="_blank" href="http://twitter.com/gansettbeer">gansettbeer</a></span></div></li><li class="twt_item" style="float:left;width:100%;"><div class="prk_twt_body"><div class="twt_in"><a href="http://twitter.com/KurtBusiek" title="Follow KurtBusiek"  target="_blank"  >@KurtBusiek</a> Well, let’s be honest. It... it was... <a href="https://t.co/Ahx4tLM4ke" title="https://t.co/Ahx4tLM4ke"  target="_blank"  >https://t.co/Ahx4tLM4ke</a></div><div class="clearfix"></div><a class="twitter_time header_font prk_heavier_700" target="_blank" href="http://twitter.com/gansettbeer/statuses/1182122984699498497">12 hours ago</a><span class="twt_extra_info"> - <a class="twitter_time header_font prk_heavier_700" target="_blank" href="http://twitter.com/gansettbeer">gansettbeer</a></span></div></li><li class="twt_item" style="float:left;width:100%;"><div class="prk_twt_body"><div class="twt_in"><a href="http://twitter.com/TomIannitti" title="Follow TomIannitti"  target="_blank"  >@TomIannitti</a> <a href="https://t.co/HPL93gGon6" title="https://t.co/HPL93gGon6"  target="_blank"  >https://t.co/HPL93gGon6</a></div><div class="clearfix"></div><a class="twitter_time header_font prk_heavier_700" target="_blank" href="http://twitter.com/gansettbeer/statuses/1182122599821824001">12 hours ago</a><span class="twt_extra_info"> - <a class="twitter_time header_font prk_heavier_700" target="_blank" href="http://twitter.com/gansettbeer">gansettbeer</a></span></div></li><li class="twt_item" style="float:left;width:100%;"><div class="prk_twt_body"><div class="twt_in"><a href="http://twitter.com/filhenderson16" title="Follow filhenderson16"  target="_blank"  >@filhenderson16</a> <a href="http://twitter.com/chaddukes" title="Follow chaddukes"  target="_blank"  >@chaddukes</a> Every bit helps. Thank you! <a href="https://twitter.com/search?q=HiNeighbor" title="Search #HiNeighbor"  target="_blank"  >#HiNeighbor</a></div><div class="clearfix"></div><a class="twitter_time header_font prk_heavier_700" target="_blank" href="http://twitter.com/gansettbeer/statuses/1182122430741045258">12 hours ago</a><span class="twt_extra_info"> - <a class="twitter_time header_font prk_heavier_700" target="_blank" href="http://twitter.com/gansettbeer">gansettbeer</a></span></div></li><li class="twt_item" style="float:left;width:100%;"><div class="prk_twt_body"><div class="twt_in"><a href="http://twitter.com/windsah" title="Follow windsah"  target="_blank"  >@windsah</a> Honestly we’re not sure what we have... shoot an email to contact<a href="http://twitter.com/narragansettbeer" title="Follow narragansettbeer"  target="_blank"  >@narragansettbeer</a>.com so we can get this into the right hands!</div><div class="clearfix"></div><a class="twitter_time header_font prk_heavier_700" target="_blank" href="http://twitter.com/gansettbeer/statuses/1182122145322864640">12 hours ago</a><span class="twt_extra_info"> - <a class="twitter_time header_font prk_heavier_700" target="_blank" href="http://twitter.com/gansettbeer">gansettbeer</a></span></div></li><li class="twt_item" style="float:left;width:100%;"><div class="prk_twt_body"><div class="twt_in">Hi diddly ho, Neighbor! <a href="https://twitter.com/search?q=HiNeighbor" title="Search #HiNeighbor"  target="_blank"  >#HiNeighbor</a> <a href="https://t.co/xi7FRfQsey" title="https://t.co/xi7FRfQsey"  target="_blank"  >https://t.co/xi7FRfQsey</a></div><div class="clearfix"></div><a class="twitter_time header_font prk_heavier_700" target="_blank" href="http://twitter.com/gansettbeer/statuses/1182121836273917952">12 hours ago</a><span class="twt_extra_info"> - <a class="twitter_time header_font prk_heavier_700" target="_blank" href="http://twitter.com/gansettbeer">gansettbeer</a></span></div></li><li class="twt_item" style="float:left;width:100%;"><div class="prk_twt_body"><div class="twt_in"><a href="http://twitter.com/chaddukes" title="Follow chaddukes"  target="_blank"  >@chaddukes</a> Love ya, Chad! Thank you! Let’s get you some stress cans! We’re finally in stock! <a href="https://twitter.com/search?q=HiNeighbor" title="Search #HiNeighbor"  target="_blank"  >#HiNeighbor</a></div><div class="clearfix"></div><a class="twitter_time header_font prk_heavier_700" target="_blank" href="http://twitter.com/gansettbeer/statuses/1182121624226713600">12 hours ago</a><span class="twt_extra_info"> - <a class="twitter_time header_font prk_heavier_700" target="_blank" href="http://twitter.com/gansettbeer">gansettbeer</a></span></div></li></ul></div></div><div class="clearfix"></div></div><div class="clearfix"></div></div><div id="pirenko-recent_portfolios-widget-2" class="widget-3 widget pirenko-recent_portfolios-widget columns"><div class="widget-3 widget_inner"><div class="widget-title header_font bd_headings_text_shadow zero_color prk_heavier_600">Currently Available</div><div class="clearfix"></div>        <div class="pirenko_recent_portfolios">
+                        <ul class="fount_recent_ul thumbnail_lay cpt-beer">
+                                                <li class="small-4 medium-4 columns thumbnail_lay left_floated portfolio_entry_li">
+                                    <a href="http://www.narragansettbeer.com/beer/lager" class="fade_anchor" data-mfp-src="h" data-title="Lager">
+                                        <div class="grid_colored_block"></div>
+                                        <img src="http://www.narragansettbeer.com/wp-content/uploads/2009/05/Lager-Thumbnail-100x225.png" alt="" width="100" height="225" />
+                                    </a>
+                                </li>
+                                                                <li class="small-4 medium-4 columns thumbnail_lay left_floated portfolio_entry_li">
+                                    <a href="http://www.narragansettbeer.com/beer/light" class="fade_anchor" data-mfp-src="h" data-title="Light">
+                                        <div class="grid_colored_block"></div>
+                                        <img src="http://www.narragansettbeer.com/wp-content/uploads/2009/05/2016_Light-100x225.png" alt="" width="100" height="225" />
+                                    </a>
+                                </li>
+                                                                <li class="small-4 medium-4 columns thumbnail_lay left_floated portfolio_entry_li">
+                                    <a href="http://www.narragansettbeer.com/beer/dels-shandy" class="fade_anchor" data-mfp-src="h" data-title="Del&#8217;s Shandy">
+                                        <div class="grid_colored_block"></div>
+                                        <img src="http://www.narragansettbeer.com/wp-content/uploads/2014/06/2015_DelsLemon-100x225.png" alt="" width="100" height="225" />
+                                    </a>
+                                </li>
+                                <li class="clearfix"></li>                                <li class="small-4 medium-4 columns thumbnail_lay left_floated portfolio_entry_li">
+                                    <a href="http://www.narragansettbeer.com/beer/fresh-catch" class="fade_anchor" data-mfp-src="h" data-title="Fresh Catch">
+                                        <div class="grid_colored_block"></div>
+                                        <img src="http://www.narragansettbeer.com/wp-content/uploads/2018/03/Fresh-Catch-Web-Thumbnail-100x225.png" alt="" width="100" height="225" />
+                                    </a>
+                                </li>
+                                                                <li class="small-4 medium-4 columns thumbnail_lay left_floated portfolio_entry_li">
+                                    <a href="http://www.narragansettbeer.com/beer/its-about-time-ipa" class="fade_anchor" data-mfp-src="h" data-title="It&#8217;s About Time IPA">
+                                        <div class="grid_colored_block"></div>
+                                        <img src="http://www.narragansettbeer.com/wp-content/uploads/2017/03/2016_Light-100x225-100x225.png" alt="" width="100" height="225" />
+                                    </a>
+                                </li>
+                                                                <li class="small-4 medium-4 columns thumbnail_lay left_floated portfolio_entry_li">
+                                    <a href="http://www.narragansettbeer.com/beer/fest" class="fade_anchor" data-mfp-src="h" data-title="Fest">
+                                        <div class="grid_colored_block"></div>
+                                        <img src="http://www.narragansettbeer.com/wp-content/uploads/2010/08/Fest-Web-Icon-100x225.png" alt="" width="100" height="225" />
+                                    </a>
+                                </li>
+                                <li class="clearfix"></li>                                <li class="small-4 medium-4 columns thumbnail_lay left_floated portfolio_entry_li">
+                                    <a href="http://www.narragansettbeer.com/beer/lovecraft-honey-ale" class="fade_anchor" data-mfp-src="h" data-title="Lovecraft Honey Ale">
+                                        <div class="grid_colored_block"></div>
+                                        <img src="http://www.narragansettbeer.com/wp-content/uploads/2015/01/2015_LovecraftHoney-100x225.png" alt="" width="100" height="225" />
+                                    </a>
+                                </li>
+                                            </ul>
+            <div class="clearfix"></div>
+        </div>
+        </div><div class="clearfix"></div></div><div id="ctct_form-3" class="widget-4 widget-last widget  columns"><div class="widget-4 widget-last widget_inner"><div class="widget-title header_font bd_headings_text_shadow zero_color prk_heavier_600">Sign Up!</div><div class="clearfix"></div><div id="ctct-form-165006" class="ctct-form-wrapper"><form class="ctct-form ctct-form-165006" id="ctct-form-705934571" data-doajax="on" style="" action="" method="post"><span class="ctct-form-description" ><p>Hi Neighbor! Sign-up here to be kept in "in the know" on all things 'Gansett!</p>
+</span><p class="ctct-form-field ctct-form-field-email ctct-form-field-required"><span class="ctct-label-top"><label for="email___07047e13001bc2171740e58e1ca5232e">Email <abbr title="required">*</abbr></label></span><input required type="email" name="email___07047e13001bc2171740e58e1ca5232e" id="email___07047e13001bc2171740e58e1ca5232e"  value=""  placeholder="Example: hineighbor@example.com" class="ctct-email ctct-label-top" /></p><p class="ctct-form-field ctct-form-field-text"><span class="ctct-label-top"><label for="custom___70ff549a86ff2de87ae259efdfce0b7b">Zip Code </label></span><input  type="text" name="custom___70ff549a86ff2de87ae259efdfce0b7b" id="custom___70ff549a86ff2de87ae259efdfce0b7b"  value="" maxlength="48" placeholder="" class="ctct-text ctct-label-top" /></p><div class="ctct-optin-hide" style="display:none;"><p class="ctct-form-field ctct-form-field-checkbox"><span class="ctct-input-container"><input type="checkbox" checked name="ctct-opt-in" id="ctct-opt-in" class="ctct-checkbox ctct-opt-in" value="2037392434" /><label for="ctct-opt-in"> Example: Yes, I would like to receive emails from Narragansett Beer. (You can unsubscribe anytime)</label></span></p></div><!--.ctct-optin-hide --><div id="ctct_usage"><label for="ctct_usage_field">Constant Contact Use.</label><input type="text" value="" name="ctct_usage_field" id="ctct_usage_field" /></div><p class="ctct-form-field ctct-form-field-hidden"><input  type="hidden" name="ctct-id" id="ctct-id"  value="165006"  placeholder="" class="ctct-hidden ctct-label-" /><p class="ctct-form-field ctct-form-field-hidden"><input  type="hidden" name="ctct-verify" id="ctct-verify"  value="zH9lyf39wjI5TOl0SXD3D6tFi"  placeholder="" class="ctct-hidden ctct-label-" /><input type="hidden" name="ctct_time" value="1570703165" /><p class="ctct-form-field ctct-form-field-submit"><input  type="submit" name="ctct-submitted" id="ctct-submitted"  value="SIGN UP!"  placeholder="" class="ctct-submit ctct-label-" /></p><input type="hidden" id="ctct_form" name="ctct_form" value="8f407c4f5a" /><input type="hidden" name="_wp_http_referer" value="/" /><div class="ctct-disclosure"><hr><sub>By submitting this form, you are consenting to receive marketing emails from: Narragansett Brewing Company, 461 Main St., Pawtucket, RI, 02860, http://www.narragansettbeer.com. You can revoke your consent to receive emails at any time by using the SafeUnsubscribe&reg; link, found at the bottom of every email. <a href="https://www.constantcontact.com/legal/service-provider" target="_blank">Emails are serviced by Constant Contact</a></sub></div></form><script type="text/javascript">var ajaxurl = "http://www.narragansettbeer.com/wp-admin/admin-ajax.php";</script></div><!-- .ctct-form-wrapper --></div><div class="clearfix"></div></div>                                                <div class="clearfix"></div>
+                                            </div> 
+                                        </div>
+                                                                        <div id="after_widgets">
+                                    <div class="columns small-12 prk_inner_block small-centered">
+                                            <div class="small-12">
+                                                    <div class="copy small-6 wpb_text_column">©2018 Narragansett Beer</div><div class="copy right_sided small-6 wpb_text_column"><a href="http://www.narragansettbeer.com/contact">Contact </a> | <a href="http://www.narragansettbeer.com/terms">Terms of Use</a></div>                                            </div>
+                                        </div>
+                                    <div class="clearfix"></div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+        </div>
+        		<script type="text/javascript">
+		/*<![CDATA[*/
+		var gmapstyles = 'default';
+		/* ]]> */
+		</script>		
+		<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "http://www.narragansettbeer.com/wp-admin/admin-ajax.php";
+</script>
+
+		<div id="av-overlay-wrap">
+
+			
+			<div id="av-overlay">
+
+				<h1></h1>
+
+				
+				
+				<input type="hidden" id="av-nonce" name="av-nonce" value="4341044f02" /><input type="hidden" name="_wp_http_referer" value="/" /><form id="av_verify_form" action="http://www.narragansettbeer.com/" method="post"><input type="hidden" id="av-nonce" name="av-nonce" value="4341044f02" /><input type="hidden" name="_wp_http_referer" value="/" /><p style="display:none;"><label for="av_verify_confirm"><input type="checkbox" name="av_verify_confirm" id="av_verify_confirm" value="1" checked /> I am at least 21 years old</label></p><p class="submit"><input type="submit" name="av_verify" id="av_verify" value="YES, I&#039;M Over 21" /><input id="not_yet" type="button" value="NOT YET..." /><label for="av_verify_remember"><input type="checkbox" name="av_verify_remember" id="av_verify_remember" value="1" /> REMEMBER ME</label></p></form>
+				
+			</div>
+
+			
+		</div>
+	        <script type="text/javascript">
+            var make_session = false;
+            var retina_device = 'prk_not_retina';
+            var detect_retina = '1';
+            jQuery(function() {
+                if( window.devicePixelRatio && detect_retina==='1') {
+                    if(window.devicePixelRatio > 1 && retina_device!=="prk_retina"){
+                        jQuery.cookie("fount_retina","prk_retina",{ path: '/' });
+                    }
+                }
+            });
+            jQuery('#footer_in .kws_form.gform_wrapper .required').addClass('pirenko_highlighted');
+jQuery('#footer_in .kws_form.gform_wrapper .kws_input_container label').addClass('theme_button');
+jQuery('#footer_in .kws_form.gform_wrapper .kws_input_container label input').attr('data-color','#FFFFFF');
+jQuery('#prk_hidden_bar_inner .kws_form.gform_wrapper .required').addClass('pirenko_highlighted');
+jQuery('#prk_hidden_bar_inner .kws_form.gform_wrapper .kws_input_container label').addClass('theme_button');
+jQuery('#prk_hidden_bar_inner .kws_form.gform_wrapper .kws_input_container label input').attr('data-color','#FFFFFF');        </script>
+        <script>
+    jQuery(document).ready(function () {
+		jQuery.post('http://www.narragansettbeer.com?ga_action=googleanalytics_get_script', {action: 'googleanalytics_get_script'}, function(response) {
+			var F = new Function ( response );
+			return( F() );
+		});
+    });
+</script><div class='evo_lightboxes'>					<div class='evo_lightbox eventcard eventon_events_list' id=''>
+						<div class="evo_content_in">													
+							<div class="evo_content_inin">
+								<div class="evo_lightbox_content">
+									<a class='evolbclose '>X</a>
+									<div class='evo_lightbox_body eventon_list_event evo_pop_body evcal_eventcard'></div>
+								</div>
+							</div>							
+						</div>
+					</div>
+					</div><script type='text/javascript' src='http://www.narragansettbeer.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.narragansettbeer.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.narragansettbeer.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.narragansettbeer.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.narragansettbeer.com/wp-includes/js/jquery/ui/droppable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.narragansettbeer.com/wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-frontend.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.narragansettbeer.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.narragansettbeer.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.3'></script>
+<script type='text/javascript' src='http://www.narragansettbeer.com/wp-content/themes/gansett-beer/js/js_composer_front-min.js?ver=5.4.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_var = {"url":"http:\/\/www.narragansettbeer.com\/wp-admin\/admin-ajax.php","nonce":"4a2950292f"};
+var theme_options = {"last_tab":"0","prk_responsive":"1","prk_detect_retina":"1","custom_width":"1140","header_font":"Raleway:300,400,500,600,700","body_font":"Open+Sans:400italic,600italic,700italic,400,600,700","custom_font":"http:\/\/www.narragansettbeer.com\/wp-content\/themes\/gansett-beer\/inc\/fonts\/signpainter\/stylesheet.css","custom_font_2":"","custom_font_3":"","headings_align":"head_center_text","use_custom_colors":"1","site_background_color":"#fff5de","active_color":"#c3112e","bd_headings_color":"#c3112e","bd_smallers_color":"#444444","inactive_color":"#000000","thumbs_text_color":"#ffffff","background_color_btns_blog":"#313539","custom_opacity":"60","background_color_btns":"#c3112e","custom_opacity_folio":"90","lines_color":"#ecd7a7","shadow_color":"#313539","custom_shadow":"0","background_color":"#ffffff","inputs_bordercolor":"#e8e8e8","buttons_style":"bordered_buttons","buttons_font":"headings_f","uppercase_buttons":"1","buttons_radius":"3","buttons_inner_shadow":"0","theme_buttons_color":"#222222","buttons_color":"#111111","preloader_color":"#c3112e","background_color_dots":"#000000","tips_text_color":"#ffffff","tips_background_color":"#000000","tips_background_opacity":"100","members_social_colors":"#AA9047","right_sidebar":"1","right_bar":"1","right_bar_width":"380","right_bar_align":"head_center_text","background_image_right_bar":{"url":"http:\/\/www.narragansettbeer.com\/wp-content\/uploads\/2015\/03\/sidebar-beer-new1.jpg","id":"34520","height":"1200","width":"380","thumbnail":"http:\/\/www.narragansettbeer.com\/wp-content\/uploads\/2015\/03\/sidebar-beer-new1-320x248.jpg"},"background_color_right_bar":"#111111","active_color_right_bar":"#c3112e","body_color_right_bar":"#ffffff","right_bar_footer_id":"","touch_enable":"0","css_enable":"0","autoplay_enable":"0","logo":{"url":"http:\/\/www.narragansettbeer.com\/wp-content\/uploads\/2015\/03\/collapsed.png","id":"34483","height":"139","width":"313","thumbnail":"http:\/\/www.narragansettbeer.com\/wp-content\/uploads\/2015\/03\/collapsed-320x248.png"},"logo_retina":{"url":"","id":"","height":"","width":"","thumbnail":""},"logo_collasped":{"url":"http:\/\/www.narragansettbeer.com\/wp-content\/uploads\/2018\/02\/logo.png","id":"165274","height":"182","width":"332","thumbnail":"http:\/\/www.narragansettbeer.com\/wp-content\/uploads\/2018\/02\/logo-320x248.png"},"logo_retina_collasped":{"url":"","id":"","height":"","width":"","thumbnail":""},"favicon":{"url":"","id":"","height":"","width":"","thumbnail":""},"header_layout":"fount_logo_above","logo_vertical":"30","logo_vertical_below":"30","menu_vertical":"55","background_color_header":"#000000","header_default_opacity":"25","menu_active_color":"#c3112e","menu_up_color":"#ffffff","menu_collapse_flag":"1","menu_collapse_pixels":"200","collapsed_menu_vertical":"55","header_opacity":"95","menu_active_color_after":"#c3112e","menu_up_color_after":"#ffffff","menu_hide_flag":"0","menu_hide_pixels":"370","submenu_active_color":"#c3112e","submenu_text_color":"#ffffff","submenu_active_background_color":"#000000","submenu_background_color":"#000000","submenu_lines_color":"#232323","show_extra_nets":"1","network_icon_1":"facebook","network_link_1":"https:\/\/www.facebook.com\/narragansettbeer","network_icon_2":"twitter","network_link_2":"https:\/\/twitter.com\/Gansettbeer","network_icon_3":"instagram-filled","network_link_3":"http:\/\/instagram.com\/gansettbeer","network_icon_4":"youtube","network_link_4":"https:\/\/www.youtube.com\/user\/NarragansettBeer","network_icon_5":"pinterest","network_link_5":"https:\/\/www.pinterest.com\/gansettbeer\/","network_icon_6":"","network_link_6":"","top_search":"0","use_footer":"1","footer_reveal":"0","bottom_sidebar":"1","widgets_nr":"small-3","titles_color_footer":"#ffffff","body_color_footer":"#f9f9f9","background_color_footer":"#000000","bottom_page":"0","bottom_page_id":"","footer_text":"\u00a92018 Narragansett Beer","footer_text_extra":"<a href=\"http:\/\/www.narragansettbeer.com\/contact\">Contact <\/a> |\u00a0<a href=\"http:\/\/www.narragansettbeer.com\/terms\">Terms of Use<\/a>","custom_width_blog":"800","archives_type":"masonry","autoplay_blog":"1","delay_blog":"6500","show_date_blog":"0","postedby_blog":"0","categoriesby_blog":"1","related_blog":"1","related_author":"0","share_blog":"1","share_blog_fb":"1","share_blog_goo":"1","share_blog_lnk":"0","share_blog_pin":"1","share_blog_stu":"0","share_blog_twt":"1","archives_ptype":"grid","portfolio_layout":"wide","autoplay_portfolio":"1","delay_portfolio":"6500","dateby_port":"1","categoriesby_port":"0","related_port":"1","active_color_overlayer":"#c3112e","smallers_color_overlayer":"#acacac","body_color_overlayer":"#545b62","background_color_overlayer":"#fff5de","lines_color_overlayer":"#dedede","overlayer_opacity":"100","share_portfolio":"1","share_portfolio_fb":"1","share_portfolio_goo":"1","share_portfolio_lnk":"0","share_portfolio_pin":"1","share_portfolio_stu":"0","share_portfolio_twt":"1","theme_translation":"0","search_tip_text":"Search this website...","submit_search_res_title":"Search Results for","submit_search_no_results":"No Results Found for","previous_text":"Previous","next_text":"Next","required_text":" (required)","profile_text":"VIEW PROFILE","in_touch_text":"Get In touch","404_title_text":"Page not found","404_body_text":"We do not know how you ended up here, but please could you try again by selecting an option on the menu?","to_blog":"To Blog","read_more":"Read More","sticky_text":"Sticky Post","posted_by_text":"Posted by","on_text":"on","about_author_text":"About","older":"Older posts","newer":"Newer posts","prj_desc_text":"Made On Honor","date_text":"Date","client_text":"Company","skills_text":"Category","tags_text":"Tags","project_text":"Website","launch_text":"Click here","to_portfolio":"To Made On Honor","prj_info_text":"Watch Episode","all_text":"All","load_more":"LOAD MORE POSTS","related_prj_text":"Other Episodes","related_prj_teaser_text":"Made On Honor. Sold On Merit.","comments_label":"Comments","comments_no_response":"No comments","comments_one_response":"1 Comment","comments_oneplus_response":"Comments","reply_text":"Reply","comments_leave_reply":"Leave a Comment","comments_under_reply":"Your feedback is valuable for us. Your email will not be published.","comments_author_text":"Name","comments_email_text":"Email","comments_url_text":"Website","comments_comment_text":"Your comment","comments_submit":"Submit Comment","empty_text_error":"Error! This field is required.","invalid_email_error":"Error! Invalid email.","comment_ok_message":"Thank you for your feedback!","contact_subject_text":"Subject","contact_message_text":"Your message","contact_submit":"Send Message","contact_error_text":"Error! This field is required.","contact_error_email_text":"Error! This email is not valid.","contact_wait_text":"Please wait...","contact_ok_text":"Thanks Neighbor! We'll get back to you soon!","ganalytics_text":"","css_text":".ctct-disclosure {\r\ndisplay: none;\r\n}\r\n\r\nhtml body .theme-postman .border-top,\r\nhtml body .theme-postman .border-left,\r\nhtml body .theme-postman .border-right,\r\nhtml body .theme-postman .border-left {\r\n\tvisibility: hidden;\r\n}\r\n.fount_cpts .portfolio_entry_li {\r\n-webkit-transform: translate3d(0px, 0px, 0px) !important;\r\n}\r\n#av-overlay-wrap {\r\n    background-color: rgba(255, 255, 255, 0.85) !important;\r\n}\r\n.page-id-34592 .titled_portfolio .portfolio_entry_li .entry_content {max-height:46px;overflow:hidden;}\r\n.page-id-34592 .titled_portfolio .grid_single_title {\r\n    padding: 20px 20px 10px 2px;\r\n    min-height:136px;\r\n}\r\n.titled_portfolio .grid_single_title {\r\n    padding: 20px;\r\n}\r\n.page-id-228 .wpcf7-form textarea,\r\n.page-id-228 .wpcf7-form input {\r\nwidth:100%;\r\n}\r\n#after_single_folio {\r\n    margin-top: 25px;\r\n}\r\n.ow_vote_single_section { margin-top: 139px !important; padding-top: 115px;}\r\n@media (max-width: 798px) {\r\n.ow_vote_single_section { margin-top: 0px !important; padding-top: 36px;}\r\n}\r\n\r\n.ow_voting_right, .ow_voting_left {\r\n    display: none;\r\n}\r\n\r\n.fount_logo_above.fount_forced_menu #centered_block {\r\n    margin-top: 175px !important;\r\n}","js_text":"jQuery('#footer_in .kws_form.gform_wrapper .required').addClass('pirenko_highlighted');\r\njQuery('#footer_in .kws_form.gform_wrapper .kws_input_container label').addClass('theme_button');\r\njQuery('#footer_in .kws_form.gform_wrapper .kws_input_container label input').attr('data-color','#FFFFFF');\r\njQuery('#prk_hidden_bar_inner .kws_form.gform_wrapper .required').addClass('pirenko_highlighted');\r\njQuery('#prk_hidden_bar_inner .kws_form.gform_wrapper .kws_input_container label').addClass('theme_button');\r\njQuery('#prk_hidden_bar_inner .kws_form.gform_wrapper .kws_input_container label input').attr('data-color','#FFFFFF');","portfolio_slug":"made-on-honor","skills_slug":"category","folio_tags_slug":"tagged","slides_slug":"slides","groups_slug":"group","members_slug":"member","team_slug":"team","testimonials_slug":"testimonials","testimonials_groups_slug":"testimonials_group","pattern":"","pattern_footer":"","REDUX_last_saved":"1532701997","REDUX_LAST_SAVE":"1532701997","REDUX_COMPILER":"1524758777","REDUX_LAST_COMPILER":"1524758777","active_skin":"","active_visual_composer":"true"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.narragansettbeer.com/wp-content/themes/gansett-beer/js/main-min.js?ver=5.0.985'></script>
+<script type='text/javascript' src='http://www.narragansettbeer.com/wp-content/themes/gansett-beer/js/other-min.js?ver=5.0.985'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?v=3.exp&#038;ver=5.0.985'></script>
+<script type='text/javascript' src='http://www.narragansettbeer.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.narragansettbeer.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.narragansettbeer.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.narragansettbeer.com/wp-includes/js/wp-embed.min.js?ver=4.9.11'></script>
+<script type='text/javascript' src='http://www.narragansettbeer.com/wp-content/plugins/easy2map/scripts/jquery.xml2json.js?ver=4.9.11'></script>
+<script type='text/javascript' src='https://maps.google.com/maps/api/js?sensor=true%2Ffalse&#038;ver=4.9.11'></script>
+<script type='text/javascript' src='http://www.narragansettbeer.com/wp-content/plugins/easy2map/scripts/easy2map.js?ver=4.9.11'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"sb_instagram_at":"27418037.M2E4MWE5Zg==.N2ZlNjQwYTAwZDdkNG.U4NTkyY2FiOTcyNTJiYzJmNWU=","sb_instagram_hide_photos":"","sb_instagram_block_users":"","font_method":"svg"};
+var sbiTranslations = {"Share":"Share","DATE_FORMAT":"en-US","Jan":"Jan","Feb":"Feb","Mar":"Mar","Apr":"Apr","May":"May","Jun":"Jun","Jul":"Jul","Aug":"Aug","Sep":"Sep","Oct":"Oct","Nov":"Nov","Dec":"Dec"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.narragansettbeer.com/wp-content/plugins/instagram-feed-pro/js/sb-instagram.js?ver=2.9.1'></script>
+    </body>
+</html>
