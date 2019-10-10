@@ -1,7 +1,6 @@
 import React from 'react';
 import { Link } from "gatsby";
 import { StaticQuery, graphql } from "gatsby"
-import LazyLoad from 'react-lazyload';
 // const set = {};
 // export const BreweryListing = (props) => {
 //     console.log(props);
