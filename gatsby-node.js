@@ -76,9 +76,9 @@ exports.createPages = async ({ graphql, actions }) => {
     if (brewery.city){
       citySet.add(brewery.city);
     }
-    let newSlug = `${brewery.slug}-2
+    var newSlug = `${brewery.slug}-2`;
     createPage({
-        path: brewery.slug,
+        path: newSlug,
         component: breweryPage,
         context: brewery,
     })
