@@ -48,7 +48,7 @@ exports.createPages = async ({ graphql, actions }) => {
     return a.name.localeCompare(b.name);
   });
 
-  breweries.slice(0,3500).forEach((brewery) => {
+  breweries.forEach((brewery) => {
     if (brewery.country !== "United States" || brewery.brewery_type === "planning"){
       return;
     }
@@ -66,7 +66,7 @@ exports.createPages = async ({ graphql, actions }) => {
         context: brewery,
     })
   });
-   return;
+   
   stateSet.forEach(state => {
     createPage({
       path: `/${kebabCase(state)}/`,
