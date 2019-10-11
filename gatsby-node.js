@@ -54,15 +54,15 @@ exports.createPages = async ({ graphql, actions }) => {
     let slug = '';
     if (brewery.state){
       stateSet.add(brewery.state);
-      slug+=`/${kebabCase(brewery.state)}/`;
+      slug+=`/${dashify(brewery.state)}/`;
     }
 
     if (brewery.city){
       citySet.add(brewery.city);
-      slug+=`/${kebabCase(brewery.city)}/`;
+      slug+=`/${dashify(brewery.city)}/`;
 
     }
-    slug+=`/${kebabCase(brewery.name)}/`;
+    slug+=`/${dashify(brewery.name)}/`;
 
     createPage({
         path: slug,

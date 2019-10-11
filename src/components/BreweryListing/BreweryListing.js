@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from "gatsby";
-import { StaticQuery, graphql } from "gatsby"
 // const set = {};
 // export const BreweryListing = (props) => {
 //     console.log(props);
