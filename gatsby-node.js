@@ -47,26 +47,31 @@ exports.createPages = async ({ graphql, actions }) => {
   breweries.sort((a, b) => {
     return a.name.localeCompare(b.name);
   });
-
   breweries.forEach((brewery) => {
     if (brewery.country !== "United States" || brewery.brewery_type === "planning"){
       return;
     }
+    let slug = '';
     if (brewery.state){
       stateSet.add(brewery.state);
+      slug+=`/${kebabCase(brewery.state)}/`;
     }
 
     if (brewery.city){
       citySet.add(brewery.city);
+      slug+=`/${kebabCase(brewery.city)}/`;
+
     }
+    slug+=`/${kebabCase(brewery.name)}/`;
 
     createPage({
-        path: brewery.slug,
+        path: slug,
         component: breweryPage,
         context: brewery,
     })
   });
-
+  
+   return;
   stateSet.forEach(state => {
     createPage({
       path: `/${dashify(state)}/`,
