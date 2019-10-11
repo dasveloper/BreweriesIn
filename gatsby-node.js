@@ -33,7 +33,6 @@ exports.createPages = async ({ graphql, actions }) => {
   const postPage = path.resolve("src/templates/post.jsx");
   const statePage = path.resolve("src/templates/state.jsx");
   const cityPage = path.resolve("src/templates/city.jsx");
-  const zipPage = path.resolve("src/templates/zip.jsx");
 
   const categoryPage = path.resolve("src/templates/category.jsx");
   const breweryPage = path.resolve(`src/templates/page.jsx`)

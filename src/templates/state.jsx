@@ -14,7 +14,6 @@ export default class StateTemplate extends React.Component {
     const breweries = this.props.data.allSitePage.edges;
     // const { tag } = this.props.pageContext;
     // const postEdges = this.props.data.allMarkdownRemark.edges;
-    const zipSet = new Set();
     const citySet = new Set();
 
     breweries.forEach((brewery) => {
@@ -39,7 +38,6 @@ export default class StateTemplate extends React.Component {
   }
 }
 
-/* eslint no-undef: "off" */
 export const pageQuery = graphql`
   query StatePage($state: String) {
     allSitePage(filter: {context: {state: {eq: $state}}}) {
@@ -51,10 +49,6 @@ export const pageQuery = graphql`
             name
             slug
             state
-            metadata{
-              image
-            }
-              
           name
           slug
           city
@@ -66,13 +60,14 @@ export const pageQuery = graphql`
           phone
           country
           brewery_type
-          
           }
         }
       }
     }
   }
 `
+
+
 
 
 // export const pageQuery = graphql`
