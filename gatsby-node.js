@@ -66,7 +66,7 @@ exports.createPages = async ({ graphql, actions }) => {
         context: brewery,
     })
   });
-   
+   return;
   stateSet.forEach(state => {
     createPage({
       path: `/${kebabCase(state)}/`,
