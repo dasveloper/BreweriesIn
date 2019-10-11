@@ -47,7 +47,7 @@ exports.createPages = async ({ graphql, actions }) => {
   breweries.sort((a, b) => {
     return a.name.localeCompare(b.name);
   });
-  breweries.slice(0,6000).forEach((brewery) => {
+  breweries.forEach((brewery) => {
     if (brewery.country !== "United States" || brewery.brewery_type === "planning"){
       return;
     }
@@ -65,24 +65,7 @@ exports.createPages = async ({ graphql, actions }) => {
         context: brewery,
     })
   });
-    breweries.slice(0,6000).forEach((brewery) => {
-    if (brewery.country !== "United States" || brewery.brewery_type === "planning"){
-      return;
-    }
-    if (brewery.state){
-      stateSet.add(brewery.state);
-    }
 
-    if (brewery.city){
-      citySet.add(brewery.city);
-    }
-    var newSlug = `${brewery.slug}-2`;
-    createPage({
-        path: newSlug,
-        component: breweryPage,
-        context: brewery,
-    })
-  });
    return;
   stateSet.forEach(state => {
     createPage({
