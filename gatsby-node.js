@@ -50,18 +50,18 @@ exports.createPages = async ({ graphql, actions }) => {
     if (brewery.country !== "United States" || brewery.brewery_type === "planning"){
       return;
     }
-    let slug = '';
+    let slug = '/';
     if (brewery.state){
       stateSet.add(brewery.state);
-      slug+=`/${dashify(brewery.state)}/`;
+      slug+=`${dashify(brewery.state)}/`;
     }
 
     if (brewery.city){
       citySet.add(brewery.city);
-      slug+=`/${dashify(brewery.city)}/`;
+      slug+=`${dashify(brewery.city)}/`;
 
     }
-    slug+=`/${dashify(brewery.name)}/`;
+    slug+=`${dashify(brewery.name)}/`;
 
     createPage({
         path: slug,
@@ -70,7 +70,7 @@ exports.createPages = async ({ graphql, actions }) => {
     })
   });
   
-   return;
+   
   stateSet.forEach(state => {
     createPage({
       path: `/${dashify(state)}/`,
