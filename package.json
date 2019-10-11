@@ -63,7 +63,6 @@
     "dev": "npm run develop",
     "serve": "gatsby serve",
     "build": "gatsby build",
-    "now-build": "gatsby build",
     "build:pp": "gatsby build --prefix-paths",
     "build:gh": "npm run clean && npm run build:pp && gh-pages -d public",
     "clean": "rm -rf public && rm -rf .cache",
