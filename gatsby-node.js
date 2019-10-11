@@ -47,14 +47,7 @@ exports.createPages = async ({ graphql, actions }) => {
   breweries.sort((a, b) => {
     return a.name.localeCompare(b.name);
   });
-  let test = [];
-  let testBrewery = breweries[0];
-  for (let i = 0; i < 1000; i++){
-    let brewCopy = {...testBrewery};
-    brewCopy.slug = "test"+i;
-    test.push(brewCopy);
-  }
-  test.forEach((brewery) => {
+  breweries.slice(0, 6000).forEach((brewery) => {
     if (brewery.country !== "United States" || brewery.brewery_type === "planning"){
       return;
     }
