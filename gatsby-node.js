@@ -50,7 +50,7 @@ exports.createPages = async ({ graphql, actions }) => {
   let test = [];
   let testBrewery = breweries[0];
   for (let i = 0; i < 1000; i++){
-    let brewCopy = testBrewery;
+    let brewCopy = {...testBrewery};
     brewCopy.slug = "test"+i;
     test.push(brewCopy);
   }
