@@ -2,7 +2,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const kebabCase = require('kebab-case');
+const dashify = require('dashify');
 
 const moment = require("moment");
 const siteConfig = require("./data/SiteConfig");
@@ -69,7 +69,7 @@ exports.createPages = async ({ graphql, actions }) => {
 
   stateSet.forEach(state => {
     createPage({
-      path: `/${kebabCase(state)}/`,
+      path: `/${dashify(state)}/`,
       component: statePage,
       context: {
         state
@@ -78,7 +78,7 @@ exports.createPages = async ({ graphql, actions }) => {
   });
   citySet.forEach(city => {
     createPage({
-      path: `/${kebabCase(city)}/`,
+      path: `/${dashify(city)}/`,
       component: cityPage,
       context: {
         city

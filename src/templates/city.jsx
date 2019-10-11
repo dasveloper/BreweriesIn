@@ -4,7 +4,7 @@ import { graphql } from "gatsby";
 import Layout from "../layout";
 import CityList from "../components/CityList/CityList";
 import { Link } from "gatsby";
-import kebabCase from "kebab-case";
+import dashify from 'dashify';
 
 import BreweryList from "../components/BreweryList/BreweryList";
 import config from "../../data/SiteConfig";
@@ -30,7 +30,7 @@ export default class CityTemplate extends React.Component {
           {/* <Helmet title={`Posts tagged as "${tag}" | ${config.siteTitle}`} /> */}
          
           {Array.from(stateSet).map((state) => {
-          return <Link to={`/${kebabCase(state)}/`}>{state}</Link>;
+          return <Link to={`/${dashify(state)}/`}>{state}</Link>;
         })} 
           <BreweryList breweries={breweries} />
      

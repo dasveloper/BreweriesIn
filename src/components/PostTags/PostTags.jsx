@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import kebabCase from "kebab-case";
+import dashify from 'dashify';
 import { Link } from "gatsby";
 
 class PostTags extends Component {
@@ -12,7 +12,7 @@ class PostTags extends Component {
             <Link
               key={tag}
               style={{ textDecoration: "none" }}
-              to={`/tags/${kebabCase(tag)}`}
+              to={`/tags/${dashify(tag)}`}
             >
               <button type="button">{tag}</button>
             </Link>
