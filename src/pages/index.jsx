@@ -10,7 +10,7 @@ import BreweryListing from "../components/BreweryListing/BreweryListing";
 
 import config from "../../data/SiteConfig";
 
-export default class index extends React.Component {
+export default class Index extends React.Component {
   render() {
     console.log(this.props)
     const breweries = this.props.data.allSitePage.edges;
