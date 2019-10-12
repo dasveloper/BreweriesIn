@@ -34,7 +34,7 @@ Home
 }
 
 export const pageQuery = graphql`
-  query IndexPage {
+  query IndexTemplate {
     allSitePage{
 
       edges {
