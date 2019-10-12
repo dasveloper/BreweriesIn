@@ -40,23 +40,7 @@ export const pageQuery = graphql`
       edges {
         node {
           id
-          context {
-            state
-            name
-            slug
-            city
-            latitude
-            longitude
-            street
-            website_url
-            postal_code
-            phone
-            country
-            brewery_type
-            metadata{
-              description
-            }
-          }
+      
         }
       }
     }
