@@ -64,7 +64,7 @@ Home
 }
 
 export const pageQuery = graphql`
-  query IndexPage($state: String) {
+  query IndexPage {
     allSitePage{
 
       edges {
