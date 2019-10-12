@@ -62,7 +62,7 @@ exports.createPages = async ({ graphql, actions }) => {
 
     }
     slug+=`${dashify(brewery.name)}/`;
-
+    brewery.slug = slug;
     createPage({
         path: slug,
         component: breweryPage,

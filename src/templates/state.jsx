@@ -5,12 +5,14 @@ import Layout from "../layout";
 import CityList from "../components/CityList/CityList";
 import { Link } from "gatsby";
 import dashify from 'dashify';
+import { Grid, Row, Col } from 'react-flexbox-grid';
+import BreweryListing from "../components/BreweryListing/BreweryListing";
 
-import BreweryList from "../components/BreweryList/BreweryList";
 import config from "../../data/SiteConfig";
 
 export default class StateTemplate extends React.Component {
   render() {
+    console.log(this.props)
     const breweries = this.props.data.allSitePage.edges;
     // const { tag } = this.props.pageContext;
     // const postEdges = this.props.data.allMarkdownRemark.edges;
@@ -18,21 +20,43 @@ export default class StateTemplate extends React.Component {
 
     breweries.forEach((brewery) => {
       const { postal_code, city } = brewery.node.context;
-      
+
       if (city) {
         citySet.add(city);
       }
     });
     return (
       <Layout>
-        <div className="tag-container">
-          {/* <Helmet title={`Posts tagged as "${tag}" | ${config.siteTitle}`} /> */}
-          <BreweryList breweries={breweries} />
-          {Array.from(citySet).map((city) => {
-            return <Link to={`/${dashify(city)}/`}>{city}</Link>;
-          })}
-       
-        </div>
+        {/* <Helmet title={`Breweries in "${state}" | ${config.siteTitle}`} /> */}
+        <article>
+
+          <Grid fluid>
+
+            <Row>
+
+              <Col xs={12} md={8}>
+                {
+                  breweries.map(brewery => (
+
+                    <BreweryListing key={brewery.node.id} brewery={brewery.node.context} />
+
+                  ))
+                }
+              </Col>
+
+              <Col style={{ background: 'yellow' }} xs={12} md={4} >
+                <aside style={{ display: 'flex', flexDirection: 'column' }}>
+                  {Array.from(citySet).map((city) => {
+                    return <Link to={`/${dashify(city)}/`}>{`${city} breweries`}</Link>;
+                  })}
+                </aside>
+              </Col>
+
+            </Row>
+
+          </Grid>
+        </article>
+
       </Layout>
     );
   }
@@ -41,6 +65,7 @@ export default class StateTemplate extends React.Component {
 export const pageQuery = graphql`
   query StatePage($state: String) {
     allSitePage(filter: {context: {state: {eq: $state}}}) {
+
       edges {
         node {
           id
@@ -48,18 +73,18 @@ export const pageQuery = graphql`
             state
             name
             slug
-            state
-          name
-          slug
-          city
-          latitude
-          longitude
-          street
-          website_url
-          postal_code
-          phone
-          country
-          brewery_type
+            city
+            latitude
+            longitude
+            street
+            website_url
+            postal_code
+            phone
+            country
+            brewery_type
+            metadata{
+              description
+            }
           }
         }
       }
