@@ -63,7 +63,7 @@ export default class index extends React.Component {
 }
 
 export const pageQuery = graphql`
-  query Index($state: String) {
+  query Index {
     allSitePage{
 
       edges {
