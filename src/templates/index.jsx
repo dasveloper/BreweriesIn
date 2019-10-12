@@ -13,19 +13,8 @@ import config from "../../data/SiteConfig";
 
 export default class IndexTemplate extends React.Component {
   render() {
-    console.log(this.props)
-    const breweries = this.props.data.allSitePage.edges;
-    // const { tag } = this.props.pageContext;
-    // const postEdges = this.props.data.allMarkdownRemark.edges;
-    const citySet = new Set();
 
-    breweries.forEach((brewery) => {
-      const { postal_code, city } = brewery.node.context;
 
-      if (city) {
-        citySet.add(city);
-      }
-    });
     return (
       <Layout>
         {/* <Helmet title={`Breweries in "${state}" | ${config.siteTitle}`} /> */}
@@ -34,26 +23,7 @@ Home
           <Grid fluid>
 
             <Row>
-
-              <Col xs={12} md={8}>
-                {
-                  breweries.map(brewery => (
-
-                    <BreweryListing key={brewery.node.id} brewery={brewery.node.context} />
-
-                  ))
-                }
-              </Col>
-
-              <Col style={{ background: 'yellow' }} xs={12} md={4} >
-                <aside style={{ display: 'flex', flexDirection: 'column' }}>
-                  {Array.from(citySet).map((city) => {
-                    return <Link to={`/${dashify(city)}/`}>{`${city} breweries`}</Link>;
-                  })}
-                </aside>
-              </Col>
-
-            </Row>
+</Row>
 
           </Grid>
         </article>
