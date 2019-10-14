@@ -15,7 +15,6 @@ export default class CityTemplate extends React.Component {
     const breweries = this.props.data.allSitePage.edges;
     // const { tag } = this.props.pageContext;
     // const postEdges = this.props.data.allMarkdownRemark.edges;
-    console.log(breweries);
     const citySet = new Set();
     breweries.forEach((brewery) => {
       const { postal_code, city } = brewery.node.context;

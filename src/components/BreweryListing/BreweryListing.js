@@ -17,7 +17,6 @@ const formatAddress = (street, city, state, postal_code) => {
 const BreweryListing = ({ brewery }) => {
     const { name, slug, brewery_type, website_url, street, city, state, postal_code, metadata, email, phone } = brewery;
     if (!slug) return null;
-    if (metadata) console.log(metadata)
     return <section style={{ border: '1px solid #e0e0e0', margin: '10px 0', padding: 10 }}>
         <Link style={{ textDecoration: 'none', color: '#393939' }} to={slug}>
 

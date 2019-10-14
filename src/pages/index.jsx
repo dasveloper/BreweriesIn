@@ -12,7 +12,6 @@ import config from "../../data/SiteConfig";
 
 class Index extends React.Component {
   render() {
-    console.log(this.props)
     const breweries = this.props.data.allSitePage.edges;
     // const { tag } = this.props.pageContext;
     // const postEdges = this.props.data.allMarkdownRemark.edges;
