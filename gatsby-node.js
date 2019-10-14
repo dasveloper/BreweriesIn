@@ -29,7 +29,7 @@ const readJsonAsync = (filepath, callback) => {
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions;
 
-
+const indexPage = path.resolve("src/templates/index.jsx");
   const postPage = path.resolve("src/templates/post.jsx");
   const statePage = path.resolve("src/templates/state.jsx");
   const cityPage = path.resolve("src/templates/city.jsx");
@@ -69,8 +69,7 @@ exports.createPages = async ({ graphql, actions }) => {
         context: brewery,
     })
   });
-  
-   
+
   stateSet.forEach(state => {
     createPage({
       path: `/${dashify(state)}/`,
