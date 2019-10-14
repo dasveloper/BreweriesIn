@@ -3,7 +3,7 @@ const config = {
   siteTitleShort: "Nearby Breweries", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "Nearby Breweries", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
-  siteUrl: "https://nearbybreweries.com", // Domain of your website without pathPrefix.
+  siteUrl: "https://www.nearbybreweries.com", // Domain of your website without pathPrefix.
   pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: "Nearby Breweries is a directory of all breweries in the United States grouped by city and state to help you find breweries near you.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
