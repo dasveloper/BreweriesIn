@@ -12,12 +12,10 @@ import config from "../../data/SiteConfig";
 
 export default class StateTemplate extends React.Component {
   render() {
-    console.log(this.props)
     const breweries = this.props.data.allSitePage.edges;
     // const { tag } = this.props.pageContext;
     // const postEdges = this.props.data.allMarkdownRemark.edges;
     const citySet = new Set();
-
     breweries.forEach((brewery) => {
       const { postal_code, city } = brewery.node.context;
 
@@ -27,14 +25,17 @@ export default class StateTemplate extends React.Component {
     });
     return (
       <Layout>
-        {/* <Helmet title={`Breweries in "${state}" | ${config.siteTitle}`} /> */}
+       <Helmet title={`Breweries in "${this.props.pageContext.state}" | ${config.siteTitle}`} /> 
         <article>
-
           <Grid fluid>
-
             <Row>
-
+              <Col xs={12}>
+                <h1>{`All breweries in ${this.props.pageContext.state}`}</h1>
+              </Col>
+            </Row>
+            <Row>
               <Col xs={12} md={8}>
+
                 {
                   breweries.map(brewery => (
 
@@ -44,10 +45,11 @@ export default class StateTemplate extends React.Component {
                 }
               </Col>
 
-              <Col style={{ background: 'yellow' }} xs={12} md={4} >
+              <Col xs={12} md={4} >
                 <aside style={{ display: 'flex', flexDirection: 'column' }}>
+                  <h2 style={{ margin: '.5rem 0' }}>{`Breweries in ${this.props.pageContext.state} cities`}</h2>
                   {Array.from(citySet).map((city) => {
-                    return <Link to={`/${dashify(city)}/`}>{`${city} breweries`}</Link>;
+                    return <Link style={{ fontSize: '1rem', margin: '.25rem 0', color: '#393939' }} to={`/${dashify(city)}/`}>{`${city} breweries`}</Link>;
                   })}
                 </aside>
               </Col>

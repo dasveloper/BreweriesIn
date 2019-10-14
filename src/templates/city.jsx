@@ -5,8 +5,9 @@ import Layout from "../layout";
 import CityList from "../components/CityList/CityList";
 import { Link } from "gatsby";
 import dashify from 'dashify';
+import { Grid, Row, Col } from 'react-flexbox-grid';
+import BreweryListing from "../components/BreweryListing/BreweryListing";
 
-import BreweryList from "../components/BreweryList/BreweryList";
 import config from "../../data/SiteConfig";
 
 export default class CityTemplate extends React.Component {
@@ -14,37 +15,52 @@ export default class CityTemplate extends React.Component {
     const breweries = this.props.data.allSitePage.edges;
     // const { tag } = this.props.pageContext;
     // const postEdges = this.props.data.allMarkdownRemark.edges;
-    const stateSet = new Set();
-
+    console.log(breweries);
+    const citySet = new Set();
     breweries.forEach((brewery) => {
-      const { postal_code, state } = brewery.node.context;
-      if (state) {
-        stateSet.add(state);
-      }
-    
-    });
+      const { postal_code, city } = brewery.node.context;
 
+      if (city) {
+        citySet.add(city);
+      }
+    });
     return (
       <Layout>
-        <div className="tag-container">
-          {/* <Helmet title={`Posts tagged as "${tag}" | ${config.siteTitle}`} /> */}
-         
-          {Array.from(stateSet).map((state) => {
-          return <Link to={`/${dashify(state)}/`}>{state}</Link>;
-        })} 
-          <BreweryList breweries={breweries} />
-     
+       <Helmet title={`Breweries in "${this.props.pageContext.city}" | ${config.siteTitle}`} /> 
+        <article>
+          <Grid fluid>
+            <Row>
+              <Col xs={12}>
+                <h1>{`All breweries in ${this.props.pageContext.city}`}</h1>
+              </Col>
+            </Row>
+            <Row>
+              <Col xs={12} >
 
-        </div>
+                {
+                  breweries.map(brewery => (
+
+                    <BreweryListing key={brewery.node.id} brewery={brewery.node.context} />
+
+                  ))
+                }
+              </Col>
+
+
+            </Row>
+
+          </Grid>
+        </article>
+
       </Layout>
     );
   }
 }
 
-/* eslint no-undef: "off" */
 export const pageQuery = graphql`
   query CityPage($city: String) {
     allSitePage(filter: {context: {city: {eq: $city}}}) {
+
       edges {
         node {
           id
@@ -52,18 +68,18 @@ export const pageQuery = graphql`
             state
             name
             slug
-            state
-          name
-          slug
-          city
-          latitude
-          longitude
-          street
-          website_url
-          postal_code
-          phone
-          country
-          brewery_type
+            city
+            latitude
+            longitude
+            street
+            website_url
+            postal_code
+            phone
+            country
+            brewery_type
+            metadata{
+              description
+            }
           }
         }
       }
@@ -72,3 +88,32 @@ export const pageQuery = graphql`
 `
 
 
+
+
+// export const pageQuery = graphql`
+//   query TagPage($tag: String) {
+//     allMarkdownRemark(
+//       limit: 1000
+//       sort: { fields: [fields___date], order: DESC }
+//       filter: { frontmatter: { tags: { in: [$tag] } } }
+//     ) {
+//       totalCount
+//       edges {
+//         node {
+//           fields {
+//             slug
+//             date
+//           }
+//           excerpt
+//           timeToRead
+//           frontmatter {
+//             title
+//             tags
+//             cover
+//             date
+//           }
+//         }
+//       }
+//     }
+//   }
+// `;
