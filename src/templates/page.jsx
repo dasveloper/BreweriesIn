@@ -40,7 +40,6 @@ export default class PageTemplate extends React.Component {
     if (!slug) return null;
     return (
       <article>
-        <Helmet title={`${name} | ${config.siteTitle}`} />
         <Helmet>
           <title>{`${name} | ${config.siteTitle}`}</title>
 
