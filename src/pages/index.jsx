@@ -30,9 +30,14 @@ class Index extends React.Component {
     });
     return (
       <Layout>
-        <Helmet
-          title={`Breweries in the united states | ${config.siteTitle}`}
-        />
+        <Helmet>
+          <title>{`Breweries in the united states | ${config.siteTitle}`}</title>
+
+          <meta
+            name="description"
+            content={`Directory of all breweries located in the United States`}
+          />
+        </Helmet>
 
         <Grid fluid className="bg-gray-100 p-10">
           <Row>

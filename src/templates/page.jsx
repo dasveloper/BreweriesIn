@@ -41,7 +41,14 @@ export default class PageTemplate extends React.Component {
     return (
       <article>
         <Helmet title={`${name} | ${config.siteTitle}`} />
+        <Helmet>
+          <title>{`${name} | ${config.siteTitle}`}</title>
 
+          <meta
+            name="description"
+            content={`${name} address, phone number, website and other information.`}
+          />
+        </Helmet>
         <Grid fluid className="bg-gray-100 p-10">
           <Row center="xs">
             <Col xs={12} lg={8}>

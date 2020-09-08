@@ -28,9 +28,15 @@ export default class StateTemplate extends React.Component {
     });
     return (
       <Layout>
-        <Helmet
-          title={`Breweries in "${this.props.pageContext.state}" | ${config.siteTitle}`}
-        />
+        <Helmet>
+          <title>{`Breweries in ${this.props.pageContext.state} | ${config.siteTitle}`}</title>
+
+          <meta
+            name="description"
+            content={`Directory of all breweries located in ${this.props.pageContext.state}`}
+          />
+        </Helmet>
+
         <article>
           <Grid fluid className="bg-gray-100 p-10">
             <Row center="xs">
