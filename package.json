@@ -7,6 +7,7 @@
     "node": "10.16.2"
   },
   "dependencies": {
+    "@tailwindcss/ui": "^0.6.0",
     "dashify": "^2.0.0",
     "gatsby": "^2.15.28",
     "gatsby-image": "^2.2.23",
@@ -17,6 +18,7 @@
     "gatsby-plugin-manifest": "^2.2.20",
     "gatsby-plugin-nprogress": "^2.1.9",
     "gatsby-plugin-offline": "^3.0.11",
+    "gatsby-plugin-postcss": "^2.3.11",
     "gatsby-plugin-react-helmet": "^3.1.10",
     "gatsby-plugin-sharp": "^2.2.27",
     "gatsby-plugin-sitemap": "^2.2.16",
@@ -29,6 +31,7 @@
     "gatsby-source-filesystem": "^2.1.28",
     "gatsby-transformer-remark": "^2.6.26",
     "gatsby-transformer-sharp": "^2.2.19",
+    "lodash": "^4.17.20",
     "moment": "^2.24.0",
     "prismjs": "^1.16.0",
     "react": "^16.10.1",
@@ -38,6 +41,7 @@
     "react-helmet": "^5.2.1",
     "react-share": "^3.0.1",
     "react-twitter-widgets": "^1.7.1",
+    "tailwindcss": "^1.8.4",
     "url-join": "^4.0.0"
   },
   "devDependencies": {
