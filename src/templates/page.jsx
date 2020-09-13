@@ -22,7 +22,6 @@ const formatAddress = (street, city, state, postal_code) => {
 export default class PageTemplate extends React.Component {
   render() {
     const breweries = this.props.data.allSitePage.edges;
-    console.log(breweries);
 
     const {
       name,

@@ -19,7 +19,7 @@ class Index extends React.Component {
     const citySet = new Set();
 
     breweries.forEach((brewery) => {
-      const { postal_code, state, city } = brewery.node.context.brewery || {};
+      const { postal_code, state, city } = brewery.node.context?.brewery || {};
 
       if (state) {
         stateSet.add(state);
