@@ -7,7 +7,7 @@ import { Link } from 'gatsby';
 import dashify from 'dashify';
 import { Grid, Row, Col } from 'react-flexbox-grid';
 import BreweryListing from '../components/BreweryListing/BreweryListing';
-
+import _ from 'lodash';
 import config from '../../data/SiteConfig';
 
 class Index extends React.Component {
@@ -15,19 +15,33 @@ class Index extends React.Component {
     const breweries = this.props.data.allSitePage.edges;
     // const { tag } = this.props.pageContext;
     // const postEdges = this.props.data.allMarkdownRemark.edges;
-    const stateSet = new Set();
-    const citySet = new Set();
+    // const stateSet = new Set();
+    // const citySet = new Set();
+
+    const states = {};
 
     breweries.forEach((brewery) => {
-      const { postal_code, state, city } = brewery.node.context?.brewery || {};
-
-      if (state) {
-        stateSet.add(state);
+      const state = brewery.node.context?.brewery?.state;
+      const city = brewery.node.context?.brewery?.city;
+      if (!(state && city)) {
+        return;
       }
-      if (city) {
-        citySet.add(city);
-      }
+      states[state] = states[state] || {};
+      states[state][city] = states[state][city] || {};
     });
+
+    // const stateSet = _.groupBy(breweries, 'node.context.brewery.state');
+    // const citySet = _.groupBy(breweries, 'node.context.brewery.city');
+    // // breweries.forEach((brewery) => {
+    //   const { postal_code, state, city } = brewery.node.context?.brewery || {};
+
+    //   if (state) {
+    //     stateSet.add(state);
+    //   }
+    //   if (city) {
+    //     citySet.add(city);
+    //   }
+    // });
     return (
       <Layout>
         <Helmet>
@@ -141,9 +155,9 @@ class Index extends React.Component {
                 <div class="bg-white overflow-hidden shadow sm:rounded-lg">
                   <div class="px-4 py-5 sm:p-6">
                     <Row>
-                      {Array.from(stateSet).map((state) => {
+                      {Object.keys(states).map((state) => {
                         return (
-                          <Col xs={3}>
+                          <Col xs={6} sm={3}>
                             <Link
                               to={`/${dashify(state)}/`}
                             >{`${state} breweries`}</Link>
@@ -173,13 +187,20 @@ class Index extends React.Component {
                 <div class="bg-white overflow-hidden shadow sm:rounded-lg">
                   <div class="px-4 py-5 sm:p-6">
                     <Row>
-                      {Array.from(citySet).map((city) => {
+                      {Object.keys(states).map((state) => {
+                        console.log(state);
                         return (
-                          <Col xs={3}>
-                            <Link
-                              to={`/${dashify(city)}/`}
-                            >{`${city} breweries`}</Link>
-                          </Col>
+                          <>
+                            {Object.keys(states[state]).map((city) => {
+                              return (
+                                <Col xs={3}>
+                                  <Link
+                                    to={`/${dashify(state)}/${dashify(city)}/`}
+                                  >{`${city} breweries`}</Link>
+                                </Col>
+                              );
+                            })}
+                          </>
                         );
                       })}
                     </Row>

@@ -21,11 +21,12 @@ export default class StateTemplate extends React.Component {
       if (!brewery) {
         return;
       }
-      const { postal_code, city } = brewery;
+      const { city } = brewery;
       if (city) {
         citySet.add(city);
       }
     });
+
     return (
       <Layout>
         <Helmet>
@@ -89,7 +90,9 @@ export default class StateTemplate extends React.Component {
                               <li class="border-t border-gray-200">
                                 <Link
                                   class="px-3 capitalize py-2 block hover:bg-gray-50 focus:outline-none focus:bg-gray-50 transition duration-150 ease-in-out"
-                                  to={`/${dashify(city)}/`}
+                                  to={`/${dashify(
+                                    this.props.pageContext.state
+                                  )}/${dashify(city)}/`}
                                 >{`${city} breweries`}</Link>
                               </li>
                             );
